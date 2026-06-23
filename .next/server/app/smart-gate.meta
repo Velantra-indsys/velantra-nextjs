@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/smart-gate/layout,_N_T_/smart-gate/page,_N_T_/smart-gate"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/smart-gate/__PAGE__",
+    "/smart-gate",
+    "/_index",
+    "/_head"
+  ]
+}
