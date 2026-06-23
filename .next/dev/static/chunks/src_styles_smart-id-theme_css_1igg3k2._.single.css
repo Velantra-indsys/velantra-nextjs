@@ -861,6 +861,13 @@
   display: grid;
 }
 
+.smart-feature-grid .smart-id-home-icon {
+  width: 54px;
+  height: 54px;
+  margin-bottom: 19px;
+  display: block;
+}
+
 .smart-feature-grid article:nth-child(2n) i {
   background: linear-gradient(135deg, #ff9b4e, #ed6f10);
 }

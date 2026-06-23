@@ -142,6 +142,14 @@ body.about-page {
   font: 800 30px "Manrope", sans-serif;
   font-style: normal;
 }
+.about-page .system-node .smart-id-home-icon,
+.about-page .coverage-grid .smart-id-home-icon,
+.about-page .solution-title .smart-id-home-icon {
+  width: 44px;
+  height: 44px;
+  display: block;
+  flex: 0 0 44px;
+}
 
 .about-page .system-node:nth-child(2n) i,
 .about-page .coverage-grid article:nth-child(2n) i,
@@ -615,3 +623,4 @@ body.about-page {
     font-size: 26px;
   }
 }
+

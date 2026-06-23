@@ -1,3 +1,5 @@
+import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
+
 export default function AboutSolutions() {
   return (
     <>
@@ -21,7 +23,7 @@ export default function AboutSolutions() {
             <a href="/smart-people">Explore Smart HR <b>&rarr;</b></a>
           </article>
           <article class="solution-feature reveal">
-            <div class="solution-title"><i class="bi bi-person-badge" aria-hidden="true"></i><span><small>Employee Companion App</small><h3>Smart ID</h3></span></div>
+            <div class="solution-title">${getSmartIdIconMarkup('aboutSolutionsSmartId', 'smart-id-home-icon')}<span><small>Employee Companion App</small><h3>Smart ID</h3></span></div>
             <p>Smart ID puts employees in control of their workday, from marking attendance and applying leave to submitting expenses and receiving company announcements.</p>
             <ul><li>Employees self-serve without HR involvement</li><li>Managers approve and act from their phone</li><li>Works with your current HR infrastructure</li><li>Mobile-friendly, built for where people actually work</li></ul>
             <a href="/smart-id">Explore Smart ID <b>&rarr;</b></a>
@@ -36,3 +38,4 @@ export default function AboutSolutions() {
     </>
   );
 }
+

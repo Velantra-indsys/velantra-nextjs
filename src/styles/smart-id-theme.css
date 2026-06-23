@@ -799,6 +799,12 @@
   font-style: normal;
   font-weight: 800;
 }
+.smart-feature-grid .smart-id-home-icon {
+  width: 54px;
+  height: 54px;
+  display: block;
+  margin-bottom: 19px;
+}
 .smart-feature-grid article:nth-child(2n) i {
   background: linear-gradient(135deg, #ff9b4e, #ed6f10);
 }
@@ -1520,3 +1526,5 @@
     font-size: clamp(36px, 10vw, 48px);
   }
 }
+
+

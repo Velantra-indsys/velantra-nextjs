@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2xu9-ay0g8ib4.js"],"default"]
-3:I[4918,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2xu9-ay0g8ib4.js"],"default"]
+2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2dtvn6hu1soa6.js"],"default"]
+3:I[4918,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2dtvn6hu1soa6.js"],"default"]
 f:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 4:T626,<div class="container companion-grid">
@@ -17,10 +17,10 @@ f:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-
             <li class="checklist-full"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9"/><path d="m6 10.5 2.8 2.8 5-5.5"/></svg>Mobile-friendly — designed for the modern workplace</li>
           </ul>
         </div>
-      </div>5:T96e,<div class="container">
+      </div>5:Tef0,<div class="container">
         <div class="section-heading centered reveal"><div class="eyebrow"><span></span> Features of Smart ID</div><h2>Everything employees need in one secure app.</h2><p>Every capability in Smart ID is designed around one goal — making work simpler, faster, and less frustrating for everyone involved.</p></div>
         <div class="smart-feature-grid">
-          <article class="reveal"><i class="bi bi-person-badge" aria-hidden="true"></i><h3>Digital Employee ID</h3><ul>Every employee carries a verified digital identity — accessible on their phone, always current, always ready. No lost cards, no queues at reception.</article>
+          <article class="reveal"><svg class="smart-id-home-icon" width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><defs><linearGradient id="featureDigitalIdSmartIdBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1565FF"/><stop offset="100%" stop-color="#0A2E8A"/></linearGradient><linearGradient id="featureDigitalIdSmartIdShieldGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1DE9B6"/><stop offset="100%" stop-color="#1A3DFF"/></linearGradient></defs><rect x="180" y="70" width="170" height="280" rx="20" fill="none" stroke="#082D7D" stroke-width="10"/><rect x="235" y="82" width="30" height="8" rx="4" fill="#082D7D"/><rect x="95" y="120" width="220" height="140" rx="18" fill="url(#featureDigitalIdSmartIdBlueGrad)"/><circle cx="145" cy="170" r="22" fill="white"/><path d="M110 230 C110 205, 180 205, 180 230 L180 240 L110 240 Z" fill="white"/><rect x="195" y="160" width="85" height="8" rx="4" fill="white"/><rect x="195" y="182" width="85" height="8" rx="4" fill="white"/><rect x="195" y="205" width="50" height="8" rx="4" fill="white"/><path d="M290 235 C330 235, 355 210, 355 210 L355 290 C355 340, 290 370, 290 370 C290 370, 225 340, 225 290 L225 210 C225 210, 250 235, 290 235 Z" fill="url(#featureDigitalIdSmartIdShieldGrad)"/><path d="M255 285 L275 305 L320 255" fill="none" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></svg><h3>Digital Employee ID</h3><ul>Every employee carries a verified digital identity — accessible on their phone, always current, always ready. No lost cards, no queues at reception.</article>
           <article class="reveal delay-1"><i class="bi bi-calendar-check" aria-hidden="true"></i><h3>Attendance Management</h3><ul>Attendance recorded accurately without paperwork or manual logs. Employees mark themselves in, managers see who's present — instantly, from anywhere.</ul></article>
           <article class="reveal delay-2"><i class="bi bi-calendar-minus" aria-hidden="true"></i><h3>Leave Management</h3><ul>Leave requests submitted, tracked, and resolved without back-and-forth emails. Balances always visible. Approvals reach the right person immediately.</ul></article>
           <article class="reveal"><i class="bi bi-check2-square" aria-hidden="true"></i><h3>Approval Workflows</h3><ul>Nothing gets stuck waiting for a manager to be at their desk. Approvals for any request reach the right person on their phone — and get resolved fast.</ul></article>
@@ -28,7 +28,7 @@ f:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-
           <article class="reveal delay-2"><i class="bi bi-clipboard-data" aria-hidden="true"></i><h3>Daily Pulse Surveys</h3><ul>Know how your teams actually feel. Quick, targeted surveys get honest responses — giving leaders the insight to act before small issues become big ones.</ul></article>
           <article class="reveal"><i class="bi bi-receipt" aria-hidden="true"></i><h3>Travel &amp; Expense Claims</h3><ul>Expenses submitted from the field the moment they happen. No lost receipts, no end-of-month scramble. Finance teams see claims in real time.</ul></article>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 smart-page smart-id-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-id"}],["$","main",null,{"children":[["$","$L3",null,{}],["$","section",null,{"className":"section smart-companion","id":"companion","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","section",null,{"className":"section smart-feature-section","id":"features","dangerouslySetInnerHTML":{"__html":"$5"}}],"$L6","$L7","$L8","$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DyPlzAkK3G0y_KJc6cyxJ"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 smart-page smart-id-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-id"}],["$","main",null,{"children":[["$","$L3",null,{}],["$","section",null,{"className":"section smart-companion","id":"companion","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","section",null,{"className":"section smart-feature-section","id":"features","dangerouslySetInnerHTML":{"__html":"$5"}}],"$L6","$L7","$L8","$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5KaJLrIGBZKgYzsXSWhXf"}
 d:T5b1,<div class="container">
         <div class="section-heading centered reveal"><div class="eyebrow light"><span></span> Why Choose Smart ID?</div><h2>A better employee experience with real-time visibility.</h2></div>
         <div class="smart-benefit-grid">
@@ -50,6 +50,6 @@ e:T462,<div class="container footer-grid">
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>a:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$e"}}]
-b:["$","script","script-0",{"src":"/_next/static/chunks/2xu9-ay0g8ib4.js","async":true}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/2dtvn6hu1soa6.js","async":true}]
 c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

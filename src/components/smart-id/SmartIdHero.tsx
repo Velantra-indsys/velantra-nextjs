@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
 
 export default function SmartIdHero() {
 
@@ -72,7 +73,7 @@ export default function SmartIdHero() {
                   <nav class="smart-app-nav"><span>⌂<small>Home</small></span><span>◉<small>Attendance</small></span><span>♧<small>Leave</small></span><span>▦<small>Company</small></span><span>⊖<small>More</small></span></nav>
                 </section>
                 <section class="smart-app-screen profile-screen">
-                  <div class="profile-avatar"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="48" fill="#f4f5fb"/><circle cx="50" cy="38" r="18" fill="#aeb5c8"/><path d="M20 91c4-24 17-36 30-36s26 12 30 36Z" fill="#7f89a3"/></svg></div>
+                  <div class="profile-avatar">${getSmartIdIconMarkup('heroProfile', 'smart-id-home-icon')}</div>
                   <h3>Alan</h3><p>Consultant</p>
                   <dl><div><dt>Employee ID</dt><dd>HR-IN-045</dd></div><div><dt>Contact Number</dt><dd>637********</dd></div><div><dt>Emergency Contact</dt><dd>73********</dd></div><div><dt>Blood Group</dt><dd>AB+</dd></div></dl>
                   <div class="profile-actions"><span>IN</span><span>IN<br><small>LATE IN</small></span><span>OUT</span></div>
@@ -87,3 +88,5 @@ export default function SmartIdHero() {
     </>
   );
 }
+
+

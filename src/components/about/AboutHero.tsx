@@ -1,3 +1,5 @@
+import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
+
 export default function AboutHero() {
   return (
     <>
@@ -17,7 +19,7 @@ export default function AboutHero() {
           </div>
           <div class="system-node node-one"><i class="bi bi-door-open" aria-hidden="true"></i><span><b>SmartGate</b><small>Gate operations</small></span></div>
           <div class="system-node node-two"><i class="bi bi-people" aria-hidden="true"></i><span><b>Smart HR</b><small>Workforce management</small></span></div>
-          <div class="system-node node-three"><i class="bi bi-person-badge" aria-hidden="true"></i><span><b>Smart ID</b><small>Employee companion</small></span></div>
+          <div class="system-node node-three">${getSmartIdIconMarkup('aboutHeroSmartId', 'smart-id-home-icon')}<span><b>Smart ID</b><small>Employee companion</small></span></div>
           <div class="system-node node-four"><i class="bi bi-cpu" aria-hidden="true"></i><span><b>AI + ERP Connect</b><small>Intelligent reporting</small></span></div>
         </div>
       </div>` }} />
@@ -35,3 +37,4 @@ export default function AboutHero() {
     </>
   );
 }
+
