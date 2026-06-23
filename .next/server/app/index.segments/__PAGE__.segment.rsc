@@ -79,7 +79,7 @@ f:"$Sreact.suspense"
           <div class="showcase-card card-assets"><svg><use href="#ic-vehicle"/></svg><span>Vehicle<br>Tracking</span></div>
           <div class="showcase-card card-helpdesk"><svg><use href="#ic-dashboard"/></svg><span>Reports &amp;<br>Dashboard</span></div>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eEq1TruGjmQ4cYSs4yK35"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OP_lvNX3pMNgeyUt8vv_Y"}
 4:["$","$La",null,{}]
 b:T11ca,<div class="container what-grid">
         <div class="what-copy reveal">

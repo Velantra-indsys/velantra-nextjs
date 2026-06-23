@@ -3,6 +3,8 @@
   "/_not-found/page": "/_not-found",
   "/about/page": "/about",
   "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
   "/smart-gate/page": "/smart-gate",
   "/smart-id/page": "/smart-id",
   "/smart-people/page": "/smart-people"

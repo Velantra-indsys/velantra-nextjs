@@ -8,11 +8,23 @@ import PeopleAnalytics from '@/components/smart-people/PeopleAnalytics';
 import PeopleModules from '@/components/smart-people/PeopleModules';
 import PeopleWhy from '@/components/smart-people/PeopleWhy';
 import PageCta from '@/components/shared/PageCta';
+import { createPageMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: "Smart People. Smarter HR Management. | Velantra",
-  description: "Velantra Smart People is a comprehensive HR management solution for employee lifecycle, attendance, payroll, performance, and reporting.",
-};
+export const metadata: Metadata = createPageMetadata({
+  title: 'Smart People HR Management Software',
+  description:
+    'Velantra Smart People helps HR teams manage employee lifecycle, attendance, shifts, payroll, performance, records, analytics, and reporting.',
+  path: '/smart-people',
+  keywords: [
+    'Smart People',
+    'HR management software',
+    'payroll management',
+    'employee lifecycle management',
+    'attendance management',
+    'HR analytics',
+  ],
+  image: '/smart-people%20bg.png',
+});
 
 export default function Page() {
   return (

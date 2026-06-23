@@ -10,11 +10,16 @@ import AboutWork from '@/components/about/AboutWork';
 import AboutWhy from '@/components/about/AboutWhy';
 import AboutIndustries from '@/components/about/AboutIndustries';
 import PageCta from '@/components/shared/PageCta';
+import { createPageMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: "About Velantra | We Connect the Systems Your Business Runs On",
-  description: "About Velantra, a business technology partner connecting HR, workforce, gate operations, ERP, and AI reporting into one operational platform.",
-};
+export const metadata: Metadata = createPageMetadata({
+  title: 'About Velantra',
+  description:
+    'Learn how Velantra connects HR, workforce, gate operations, ERP, and AI reporting into practical business technology systems.',
+  path: '/about',
+  keywords: ['about Velantra', 'business technology partner', 'ERP integration', 'operations automation'],
+  image: '/Velentra-logo.png',
+});
 
 export default function Page() {
   return (

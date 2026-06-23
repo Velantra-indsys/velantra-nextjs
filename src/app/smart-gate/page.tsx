@@ -12,11 +12,23 @@ import GateModuleContractors from '@/components/smart-gate/GateModuleContractors
 import GateRoles from '@/components/smart-gate/GateRoles';
 import GateIndustries from '@/components/smart-gate/GateIndustries';
 import PageCta from '@/components/shared/PageCta';
+import { createPageMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: "Secure Every Entry. Simplify Every Exit. | Velantra",
-  description: "Gate Management  digitizes visitor registration, approvals, secure gate access, digital passes, and real-time visitor tracking.",
-};
+export const metadata: Metadata = createPageMetadata({
+  title: 'Smart Gate Visitor and Gate Management Software',
+  description:
+    'Velantra Smart Gate digitizes visitor registration, approvals, secure gate access, digital passes, vehicle tracking, material movement, and contractor entry.',
+  path: '/smart-gate',
+  keywords: [
+    'Smart Gate',
+    'visitor management system',
+    'gate pass software',
+    'vehicle tracking',
+    'material inward outward',
+    'contractor management',
+  ],
+  image: '/smart-gate%20bg.png',
+});
 
 export default function Page() {
   return (

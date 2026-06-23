@@ -9,11 +9,23 @@ import SmartIdBenefits from '@/components/smart-id/SmartIdBenefits';
 import SmartIdModules from '@/components/smart-id/SmartIdModules';
 import SmartIdSecurity from '@/components/smart-id/SmartIdSecurity';
 import PageCta from '@/components/shared/PageCta';
+import { createPageMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: "Smart ID Employee Work Buddy | Velantra",
-  description: "Velantra Smart ID is the employee work buddy for attendance, leave, approvals, surveys, announcements, digital ID, and expense claims.",
-};
+export const metadata: Metadata = createPageMetadata({
+  title: 'Smart ID Employee Management App',
+  description:
+    'Velantra Smart ID gives employees one mobile app for attendance, leave, approvals, digital ID, surveys, announcements, profile details, and expense claims.',
+  path: '/smart-id',
+  keywords: [
+    'Smart ID',
+    'employee management app',
+    'attendance app',
+    'leave management',
+    'digital employee ID',
+    'expense claims',
+  ],
+  image: '/hero%20bg.png',
+});
 
 export default function Page() {
   return (
