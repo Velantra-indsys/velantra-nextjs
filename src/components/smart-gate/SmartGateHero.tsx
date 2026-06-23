@@ -1,12 +1,12 @@
 export default function SmartGateHero() {
   return (
     <>
-      <section className="smart-gate-hero" dangerouslySetInnerHTML={{ __html: String.raw`<div class="container smart-gate-hero-grid">
+      <section className="smart-gate-hero" dangerouslySetInnerHTML={{
+        __html: String.raw`<div class="container smart-gate-hero-grid">
         <div class="smart-gate-hero-copy reveal">
           <div class="eyebrow"><span></span> Gate Management </div>
           <h1>Secure Every Entry.<br>Simplify Every Exit.</h1>
           <p>SmartGate gives your security and operations teams complete control over Visitors, Materials, Vehicles, and Contractors — at every entry and exit point, from one place.</p>
-          <div class="hero-actions"><a class="button button-ghost" href="#journey">How It Works</a></div>
         </div>
 
         <div class="gate-login-stage reveal delay-1">

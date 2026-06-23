@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2dtvn6hu1soa6.js"],"default"]
-3:I[4918,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2dtvn6hu1soa6.js"],"default"]
+2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2fn3q-lbhh4rn.js"],"default"]
+3:I[4918,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2fn3q-lbhh4rn.js"],"default"]
 f:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 4:T626,<div class="container companion-grid">
@@ -28,7 +28,7 @@ f:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-
           <article class="reveal delay-2"><i class="bi bi-clipboard-data" aria-hidden="true"></i><h3>Daily Pulse Surveys</h3><ul>Know how your teams actually feel. Quick, targeted surveys get honest responses — giving leaders the insight to act before small issues become big ones.</ul></article>
           <article class="reveal"><i class="bi bi-receipt" aria-hidden="true"></i><h3>Travel &amp; Expense Claims</h3><ul>Expenses submitted from the field the moment they happen. No lost receipts, no end-of-month scramble. Finance teams see claims in real time.</ul></article>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 smart-page smart-id-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-id"}],["$","main",null,{"children":[["$","$L3",null,{}],["$","section",null,{"className":"section smart-companion","id":"companion","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","section",null,{"className":"section smart-feature-section","id":"features","dangerouslySetInnerHTML":{"__html":"$5"}}],"$L6","$L7","$L8","$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"L8OeEpQDJK0TIKVTp1AMA"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 smart-page smart-id-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-id"}],["$","main",null,{"children":[["$","$L3",null,{}],["$","section",null,{"className":"section smart-companion","id":"companion","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","section",null,{"className":"section smart-feature-section","id":"features","dangerouslySetInnerHTML":{"__html":"$5"}}],"$L6","$L7","$L8","$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eEq1TruGjmQ4cYSs4yK35"}
 d:T5b1,<div class="container">
         <div class="section-heading centered reveal"><div class="eyebrow light"><span></span> Why Choose Smart ID?</div><h2>A better employee experience with real-time visibility.</h2></div>
         <div class="smart-benefit-grid">
@@ -50,6 +50,6 @@ e:T462,<div class="container footer-grid">
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>a:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$e"}}]
-b:["$","script","script-0",{"src":"/_next/static/chunks/2dtvn6hu1soa6.js","async":true}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/2fn3q-lbhh4rn.js","async":true}]
 c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

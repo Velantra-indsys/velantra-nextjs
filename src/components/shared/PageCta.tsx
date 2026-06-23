@@ -1,7 +1,8 @@
 type Variant = 'about' | 'smart-gate' | 'smart-id' | 'smart-people';
 
 const ctas: Record<Variant, { className: string; id?: string; html: string }> = {
-  'about': { className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
+  'about': {
+    className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
         <div>
           <span>Let's Talk</span>
           <h2>Ready to Connect Your Business?</h2>
@@ -12,7 +13,8 @@ const ctas: Record<Variant, { className: string; id?: string; html: string }> = 
           <a class="button button-ghost" href="https://wa.me/916374326329" target="_blank" rel="noopener">Talk to Our Team <b>&rarr;</b></a>
         </div>
       </div>` },
-  'smart-gate': { className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
+  'smart-gate': {
+    className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
         <div>
           <span>Ready to Digitize Your Gate Operations?</span>
           <h2>Secure Every Entry. Simplify Every Exit.</h2>
@@ -20,10 +22,10 @@ const ctas: Record<Variant, { className: string; id?: string; html: string }> = 
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Schedule a Free Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="#overview">See How It Works <b>&rarr;</b></a>
         </div>
       </div>` },
-  'smart-id': { className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
+  'smart-id': {
+    className: 'page-cta people-closing-cta', html: String.raw`<div class="container">
         <div>
           <span>Ready to Transform Employee Management?</span>
           <h2>Give Every Employee a Smarter Way to Work.</h2>
@@ -33,7 +35,8 @@ const ctas: Record<Variant, { className: string; id?: string; html: string }> = 
           <a class="button button-ghost" href="/#contact">Talk to Our Experts <b>&rarr;</b></a>
         </div>
       </div>` },
-  'smart-people': { className: 'page-cta people-closing-cta', id: 'contact', html: String.raw`<div class="container">
+  'smart-people': {
+    className: 'page-cta people-closing-cta', id: 'contact', html: String.raw`<div class="container">
           <div>
             <span>Ready to Transform Your HR Operations?</span>
             <h2>Smart People. Smart HR Management.</h2>

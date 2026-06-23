@@ -518,7 +518,6 @@ const ctas = {
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Schedule a Free Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="#overview">See How It Works <b>&rarr;</b></a>
         </div>
       </div>`
     },
@@ -568,7 +567,7 @@ function PageCta({ variant }) {
         }
     }, void 0, false, {
         fileName: "[project]/src/components/shared/PageCta.tsx",
-        lineNumber: 58,
+        lineNumber: 61,
         columnNumber: 10
     }, this);
 }

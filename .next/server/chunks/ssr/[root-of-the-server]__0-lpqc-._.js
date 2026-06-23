@@ -22,7 +22,6 @@ module.exports=[71306,(a,b,c)=>{b.exports=a.r(18622)},79847,a=>{a.n(a.i(3343))},
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Schedule a Free Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="#overview">See How It Works <b>&rarr;</b></a>
         </div>
       </div>`},"smart-id":{className:"page-cta people-closing-cta",html:String.raw`<div class="container">
         <div>
@@ -55,7 +54,6 @@ module.exports=[71306,(a,b,c)=>{b.exports=a.r(18622)},79847,a=>{a.n(a.i(3343))},
           <div class="eyebrow"><span></span> Gate Management </div>
           <h1>Secure Every Entry.<br>Simplify Every Exit.</h1>
           <p>SmartGate gives your security and operations teams complete control over Visitors, Materials, Vehicles, and Contractors — at every entry and exit point, from one place.</p>
-          <div class="hero-actions"><a class="button button-ghost" href="#journey">How It Works</a></div>
         </div>
 
         <div class="gate-login-stage reveal delay-1">

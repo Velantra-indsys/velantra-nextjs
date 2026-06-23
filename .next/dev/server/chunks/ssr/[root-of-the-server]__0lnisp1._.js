@@ -109,7 +109,6 @@ function SmartGateHero() {
           <div class="eyebrow"><span></span> Gate Management </div>
           <h1>Secure Every Entry.<br>Simplify Every Exit.</h1>
           <p>SmartGate gives your security and operations teams complete control over Visitors, Materials, Vehicles, and Contractors — at every entry and exit point, from one place.</p>
-          <div class="hero-actions"><a class="button button-ghost" href="#journey">How It Works</a></div>
         </div>
 
         <div class="gate-login-stage reveal delay-1">
@@ -534,7 +533,6 @@ const ctas = {
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Schedule a Free Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="#overview">See How It Works <b>&rarr;</b></a>
         </div>
       </div>`
     },
@@ -584,7 +582,7 @@ function PageCta({ variant }) {
         }
     }, void 0, false, {
         fileName: "[project]/src/components/shared/PageCta.tsx",
-        lineNumber: 58,
+        lineNumber: 61,
         columnNumber: 10
     }, this);
 }

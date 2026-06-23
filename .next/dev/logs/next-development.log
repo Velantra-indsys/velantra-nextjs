@@ -1,4 +1,15 @@
-{"timestamp":"00:00:14.904","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 478ms. If D:\\02\\.next/dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
-{"timestamp":"00:00:26.025","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:29.058","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:00:40.528","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:02.284","source":"Server","level":"WARN","message":"⚠ Slow filesystem detected. The benchmark took 414ms. If D:\\02\\.next/dev is a network drive, consider moving it to a local folder.\nSee more: https://nextjs.org/docs/app/guides/local-development"}
+{"timestamp":"00:00:02.828","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:04.781","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:04:23.184","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:05:11.911","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:06:01.083","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:08:04.311","source":"Server","level":"LOG","message":"✓ Compiled in 846ms"}
+{"timestamp":"02:08:22.333","source":"Server","level":"LOG","message":"✓ Compiled in 116ms"}
+{"timestamp":"02:09:05.910","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:10:35.147","source":"Server","level":"LOG","message":"✓ Compiled in 106ms"}
+{"timestamp":"02:10:56.990","source":"Server","level":"LOG","message":"✓ Compiled in 44ms"}
+{"timestamp":"02:10:59.287","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:11:05.481","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:11:05.645","source":"Server","level":"LOG","message":"✓ Compiled in 1949ms"}
+{"timestamp":"02:11:46.118","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}

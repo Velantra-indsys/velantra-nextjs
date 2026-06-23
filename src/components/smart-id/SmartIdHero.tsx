@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect } from 'react';
-import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
 
 export default function SmartIdHero() {
 
@@ -73,7 +72,7 @@ export default function SmartIdHero() {
                   <nav class="smart-app-nav"><span>⌂<small>Home</small></span><span>◉<small>Attendance</small></span><span>♧<small>Leave</small></span><span>▦<small>Company</small></span><span>⊖<small>More</small></span></nav>
                 </section>
                 <section class="smart-app-screen profile-screen">
-                  <div class="profile-avatar">${getSmartIdIconMarkup('heroProfile', 'smart-id-home-icon')}</div>
+                  <div class="profile-avatar employee-avatar" role="img" aria-label="Alan profile avatar"><i class="fa-solid fa-user" aria-hidden="true"></i></div>
                   <h3>Alan</h3><p>Consultant</p>
                   <dl><div><dt>Employee ID</dt><dd>HR-IN-045</dd></div><div><dt>Contact Number</dt><dd>637********</dd></div><div><dt>Emergency Contact</dt><dd>73********</dd></div><div><dt>Blood Group</dt><dd>AB+</dd></div></dl>
                   <div class="profile-actions"><span>IN</span><span>IN<br><small>LATE IN</small></span><span>OUT</span></div>
