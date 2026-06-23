@@ -1,15 +1,16 @@
 1:"$Sreact.fragment"
-2:I[79520,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],""]
-3:I[39756,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-4:I[37457,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-5:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2_417r9eo0rrh.js"],"default"]
-15:I[68027,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/0f3pe2j_frfvz.css","style"]
+2:I[79520,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[58266,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[39756,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+16:I[68027,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/1hci746duiqr9.css","style"]
 :HL["/_next/static/chunks/2fhqq11p9-hwb.css","style"]
 :HL["/_next/static/chunks/3g_o6gzpjjcvt.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","style"]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css","style"]
-6:T5b3,<div class="container smart-gate-hero-grid">
+7:T5b3,<div class="container smart-gate-hero-grid">
         <div class="smart-gate-hero-copy reveal">
           <div class="eyebrow"><span></span> Gate Management </div>
           <h1>Secure Every Entry.<br>Simplify Every Exit.</h1>
@@ -26,12 +27,12 @@
           <span class="login-orbit orbit-one"></span><span class="login-orbit orbit-two"></span>
           <div class="login-float-card"><i class="bi bi-check-circle-fill" aria-hidden="true"></i><span><b>Visitor verified</b><small>Digital pass ready</small></span></div>
         </div>
-      </div>0:{"P":null,"c":["","smart-gate"],"q":"","i":false,"f":[[["",{"children":["smart-gate",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1z6x88ihszho0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L5",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf"]}],"$L10"]}],["$L11"],"$L12"]}],{},null,false,null]},null,false,"$@13"]},null,false,null],"$L14",false]],"m":"$undefined","G":["$15",["$L16","$L17","$L18"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2sJaq0xn3kMU1tqIRFVDP"}
-20:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-21:"$Sreact.suspense"
-24:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-26:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
-19:T7d0,<div class="container">
+      </div>0:{"P":null,"c":["","smart-gate"],"q":"","i":false,"f":[[["",{"children":["smart-gate",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39iz7otspa_v-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L6",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$7"}}],"$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}],"$L11"]}],["$L12"],"$L13"]}],{},null,false,null]},null,false,"$@14"]},null,false,null],"$L15",false]],"m":"$undefined","G":["$16",["$L17","$L18","$L19"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DyPlzAkK3G0y_KJc6cyxJ"}
+21:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+25:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+27:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+1a:T7d0,<div class="container">
         <div class="section-heading centered reveal"><div class="eyebrow"><span></span> What SmartGate manages</div><h2>One Platform for Every Gate Movement.</h2><p>SmartGate brings visitors, materials, vehicles, and contractors under one intelligent control layer — every movement tracked, documented, and secured.</p></div>
         <div class="gate-pillars-grid reveal">
           <article class="gate-pillar-card pillar-visitors">
@@ -51,8 +52,8 @@
             <div class="pillar-content"><h3>Contractors &amp; Services</h3><p>Manage service personnel, their equipment, and safe exit — nothing enters or leaves untracked.</p></div>
           </article>
         </div>
-      </div>7:["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$19"}}]
-1a:T6e7,<div class="container dashboard-layout">
+      </div>8:["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+1b:T6e7,<div class="container dashboard-layout">
         <div class="dashboard-copy reveal">
           <div class="eyebrow"><span></span> Real-time control</div>
           <h2>Complete Visibility with Intelligent Dashboard.</h2>
@@ -68,8 +69,8 @@
             <div class="vms-panels"><article><b>Pending Approvals</b><span>No pending approvals</span></article><article><b>Awaiting Check-In</b><span>Queue is clear</span></article><article><b>Currently On Premises</b><span>18 active visitors</span></article><article><b>Overstayed Visitors</b><span>2 need attention</span></article></div>
           </div>
         </div>
-      </div>8:["$","section",null,{"className":"section gate-dashboard-section","id":"dashboard","dangerouslySetInnerHTML":{"__html":"$1a"}}]
-1b:T7e2,<div class="container digital-pass-layout">
+      </div>9:["$","section",null,{"className":"section gate-dashboard-section","id":"dashboard","dangerouslySetInnerHTML":{"__html":"$1b"}}]
+1c:T7e2,<div class="container digital-pass-layout">
         <div class="pass-visual reveal">
           <div class="pass-cards-row">
             <div class="visitor-pass">
@@ -97,8 +98,8 @@
 
           <a class="button button-primary" href="/#contact">See It in Action <b>&rarr;</b></a>
         </div>
-      </div>9:["$","section",null,{"className":"section digital-pass-section","id":"pass","dangerouslySetInnerHTML":{"__html":"$1b"}}]
-1c:T82a,<div class="container gate-module-layout">
+      </div>a:["$","section",null,{"className":"section digital-pass-section","id":"pass","dangerouslySetInnerHTML":{"__html":"$1c"}}]
+1d:T82a,<div class="container gate-module-layout">
         <div class="gate-module-copy reveal">
           <div class="eyebrow"><span></span> Materials management</div>
           <h2>Track Every Item.<br>In or Out.</h2>
@@ -125,8 +126,8 @@
             <span class="gm-qr-chip mat-chip">✓ Cleared</span>
           </div>
         </div>
-      </div>a:["$","section",null,{"className":"section gate-module-section mat-bg","id":"materials","dangerouslySetInnerHTML":{"__html":"$1c"}}]
-1d:T8a1,<div class="container gate-module-layout">
+      </div>b:["$","section",null,{"className":"section gate-module-section mat-bg","id":"materials","dangerouslySetInnerHTML":{"__html":"$1d"}}]
+1e:T8a1,<div class="container gate-module-layout">
         <div class="gate-module-visual reveal">
           <div class="gm-cards-row">
             <div class="gm-card vehicles-theme">
@@ -154,8 +155,8 @@
           <p>End-to-end vehicle tracking from the moment a vehicle approaches the gate to the moment it exits — with full verification and audit logs at every step.</p>
           <a class="button button-primary" href="/#contact">See It in Action <b>&rarr;</b></a>
         </div>
-      </div>b:["$","section",null,{"className":"section gate-module-section veh-bg","id":"vehicles","dangerouslySetInnerHTML":{"__html":"$1d"}}]
-1e:T858,<div class="container gate-module-layout">
+      </div>c:["$","section",null,{"className":"section gate-module-section veh-bg","id":"vehicles","dangerouslySetInnerHTML":{"__html":"$1e"}}]
+1f:T858,<div class="container gate-module-layout">
         <div class="gate-module-copy reveal">
           <div class="eyebrow"><span></span> Contractor management</div>
           <h2>Authorize Every Contractor.<br>Track Every Tool.</h2>
@@ -182,25 +183,25 @@
             <span class="gm-qr-chip con-chip">✓ Active</span>
           </div>
         </div>
-      </div>c:["$","section",null,{"className":"section gate-module-section con-bg","id":"contractors","dangerouslySetInnerHTML":{"__html":"$1e"}}]
-d:["$","section",null,{"className":"section roles-section","id":"roles","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Role-based workflow</div><h2>Built for Everyone Involved.</h2></div>\n        <div class=\"role-grid\">\n          <article class=\"reveal\">\n            <i class=\"bi bi-person\" aria-hidden=\"true\"></i>\n            <h3>Visitor</h3>\n          </article>\n          <article class=\"reveal delay-1\">\n            <i class=\"bi bi-person-check\" aria-hidden=\"true\"></i>\n            <h3>Host</h3>\n          </article>\n          <article class=\"reveal delay-2\">\n            <i class=\"bi bi-shield-lock\" aria-hidden=\"true\"></i>\n            <h3>Security Team</h3>\n          </article>\n          <article class=\"reveal\">\n            <i class=\"bi bi-speedometer2\" aria-hidden=\"true\"></i>\n            <h3>Administrator</h3>\n          </article>\n        </div>\n      </div>"}}]
-e:["$","section",null,{"className":"section industries-section","id":"industries","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Industries we serve</div><h2>Secure visitor journeys for every workplace.</h2></div>\n        <div class=\"industry-grid reveal\"><span>Corporate Offices</span><span>Manufacturing Plants</span><span>Large Organizationsal Institutions</span><span>Industrial Facilities</span><span>Construction Sites</span></div>\n      </div>"}}]
-f:["$","section",null,{"className":"page-cta people-closing-cta","id":"$undefined","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div>\n          <span>Ready to Digitize Your Gate Operations?</span>\n          <h2>Secure Every Entry. Simplify Every Exit.</h2>\n          <p>Take complete control of visitors, materials, vehicles, and contractors — all from one intelligent gate management platform.</p>\n        </div>\n        <div class=\"people-cta-actions\">\n          <a class=\"button\" href=\"/#contact\">Schedule a Free Demo <b>&rarr;</b></a>\n          <a class=\"button button-ghost\" href=\"#overview\">See How It Works <b>&rarr;</b></a>\n        </div>\n      </div>"}}]
-1f:T462,<div class="container footer-grid">
+      </div>d:["$","section",null,{"className":"section gate-module-section con-bg","id":"contractors","dangerouslySetInnerHTML":{"__html":"$1f"}}]
+e:["$","section",null,{"className":"section roles-section","id":"roles","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Role-based workflow</div><h2>Built for Everyone Involved.</h2></div>\n        <div class=\"role-grid\">\n          <article class=\"reveal\">\n            <i class=\"bi bi-person\" aria-hidden=\"true\"></i>\n            <h3>Visitor</h3>\n          </article>\n          <article class=\"reveal delay-1\">\n            <i class=\"bi bi-person-check\" aria-hidden=\"true\"></i>\n            <h3>Host</h3>\n          </article>\n          <article class=\"reveal delay-2\">\n            <i class=\"bi bi-shield-lock\" aria-hidden=\"true\"></i>\n            <h3>Security Team</h3>\n          </article>\n          <article class=\"reveal\">\n            <i class=\"bi bi-speedometer2\" aria-hidden=\"true\"></i>\n            <h3>Administrator</h3>\n          </article>\n        </div>\n      </div>"}}]
+f:["$","section",null,{"className":"section industries-section","id":"industries","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Industries we serve</div><h2>Secure visitor journeys for every workplace.</h2></div>\n        <div class=\"industry-grid reveal\"><span>Corporate Offices</span><span>Manufacturing Plants</span><span>Large Organizationsal Institutions</span><span>Industrial Facilities</span><span>Construction Sites</span></div>\n      </div>"}}]
+10:["$","section",null,{"className":"page-cta people-closing-cta","id":"$undefined","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div>\n          <span>Ready to Digitize Your Gate Operations?</span>\n          <h2>Secure Every Entry. Simplify Every Exit.</h2>\n          <p>Take complete control of visitors, materials, vehicles, and contractors — all from one intelligent gate management platform.</p>\n        </div>\n        <div class=\"people-cta-actions\">\n          <a class=\"button\" href=\"/#contact\">Schedule a Free Demo <b>&rarr;</b></a>\n          <a class=\"button button-ghost\" href=\"#overview\">See How It Works <b>&rarr;</b></a>\n        </div>\n      </div>"}}]
+20:T462,<div class="container footer-grid">
       <div><a class="brand footer-brand" href="/"><span class="brand-logo"><img src="/Velentra-logo.png" alt=""></span><span>Velantra</span></a><p>Velantra helps organizations build smarter, more secure, and efficient workplaces through innovative technology and digital transformation solutions.</p><div class="social-links"><a href="#" aria-label="LinkedIn">in</a><a href="#" aria-label="YouTube">yt</a><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">ig</a></div></div>
       <div><b>Products</b><a href="/smart-id">Smart-ID</a><a href="/smart-gate">Smart-Gate</a><a href="/smart-people">Smart-People</a></div>
       <div><b>Company</b><a href="/about">About Us</a><a href="/#contact">Contact</a><a href="/#faq">Resources</a></div>
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
-    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>10:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$1f"}}]
-11:["$","script","script-0",{"src":"/_next/static/chunks/2_417r9eo0rrh.js","async":true,"nonce":"$undefined"}]
-12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
-23:[]
-13:"$W23"
-14:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":"$L27"}]}]}],null]}]
-16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-17:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-18:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-22:null
-27:[["$","title","0",{"children":"Secure Every Entry. Simplify Every Exit. | Velantra"}],["$","meta","1",{"name":"description","content":"Gate Management  digitizes visitor registration, approvals, secure gate access, digital passes, and real-time visitor tracking."}]]
+    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>11:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$20"}}]
+12:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true,"nonce":"$undefined"}]
+13:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+24:[]
+14:"$W24"
+15:["$","$1","h",{"children":[null,["$","$L25",null,{"children":"$L26"}],["$","div",null,{"hidden":true,"children":["$","$L27",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":"$L28"}]}]}],null]}]
+17:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+18:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+26:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:null
+28:[["$","title","0",{"children":"Secure Every Entry. Simplify Every Exit. | Velantra"}],["$","meta","1",{"name":"description","content":"Gate Management  digitizes visitor registration, approvals, secure gate access, digital passes, and real-time visitor tracking."}]]

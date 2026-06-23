@@ -18,7 +18,7 @@ export function useScrollHeader() {
       if (!reduceMotion) {
         parallaxItems.forEach((item) => {
           const speed = parseFloat(item.dataset.parallax || '') || 0.1;
-          item.style.transform = `translateY(${scrollY * speed}px)`;
+          item.style.setProperty('--parallax-y', `${scrollY * speed}px`);
         });
       }
       ticking = false;
@@ -31,6 +31,9 @@ export function useScrollHeader() {
     };
     window.addEventListener('scroll', onScroll, { passive: true });
     update();
-    return () => window.removeEventListener('scroll', onScroll);
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      parallaxItems.forEach((item) => item.style.removeProperty('--parallax-y'));
+    };
   }, []);
 }

@@ -1,15 +1,16 @@
 1:"$Sreact.fragment"
-2:I[79520,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],""]
-3:I[39756,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-4:I[37457,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-5:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2mjid21u71run.js"],"default"]
-e:I[68027,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/0f3pe2j_frfvz.css","style"]
+2:I[79520,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[58266,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[39756,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0otiwebw-3wpq.js"],"default"]
+f:I[68027,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/1hci746duiqr9.css","style"]
 :HL["/_next/static/chunks/2fhqq11p9-hwb.css","style"]
 :HL["/_next/static/chunks/3g_o6gzpjjcvt.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","style"]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css","style"]
-6:T1937,<div class="container platform-hero-grid">
+7:T1937,<div class="container platform-hero-grid">
         <div class="platform-copy reveal">
           <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span></h1>
           <p>Velantra connect people, processes, and technology — creating smarter workplaces, empowering teams, and delivering real business transformation.</p>
@@ -84,15 +85,15 @@ e:I[68027,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8
           <div class="showcase-card card-assets"><svg><use href="#ic-vehicle"/></svg><span>Vehicle<br>Tracking</span></div>
           <div class="showcase-card card-helpdesk"><svg><use href="#ic-dashboard"/></svg><span>Reports &amp;<br>Dashboard</span></div>
         </div>
-      </div>0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1z6x88ihszho0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L5",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],{},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2sJaq0xn3kMU1tqIRFVDP"}
-12:I[57292,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2mjid21u71run.js"],"default"]
-14:I[1815,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2mjid21u71run.js"],"default"]
-16:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-17:"$Sreact.suspense"
-19:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-1b:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
-7:["$","$L12",null,{}]
-13:T11ca,<div class="container what-grid">
+      </div>0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39iz7otspa_v-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L6",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$7"}}],"$L8","$L9","$La"]}],"$Lb"]}],["$Lc"],"$Ld"]}],{},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DyPlzAkK3G0y_KJc6cyxJ"}
+13:I[57292,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0otiwebw-3wpq.js"],"default"]
+15:I[1815,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0otiwebw-3wpq.js"],"default"]
+17:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+1c:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+8:["$","$L13",null,{}]
+14:T11ca,<div class="container what-grid">
         <div class="what-copy reveal">
           <div class="home-heading"><span>What We Do</span><h2>Innovation Meets Business</h2><p>Making business operations simpler, smarter, and more connected.
 Empowering organizations with technology built for the future.</p></div>
@@ -132,21 +133,21 @@ Empowering organizations with technology built for the future.</p></div>
           </div>
         </div>
         </div>
-      </div>8:["$","section",null,{"className":"home-section what-section","id":"what-we-do","dangerouslySetInnerHTML":{"__html":"$13"}}]
-9:["$","$L14",null,{}]
-15:T462,<div class="container footer-grid">
+      </div>9:["$","section",null,{"className":"home-section what-section","id":"what-we-do","dangerouslySetInnerHTML":{"__html":"$14"}}]
+a:["$","$L15",null,{}]
+16:T462,<div class="container footer-grid">
       <div><a class="brand footer-brand" href="/"><span class="brand-logo"><img src="/Velentra-logo.png" alt=""></span><span>Velantra</span></a><p>Velantra helps organizations build smarter, more secure, and efficient workplaces through innovative technology and digital transformation solutions.</p><div class="social-links"><a href="#" aria-label="LinkedIn">in</a><a href="#" aria-label="YouTube">yt</a><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">ig</a></div></div>
       <div><b>Products</b><a href="/smart-id">Smart-ID</a><a href="/smart-gate">Smart-Gate</a><a href="/smart-people">Smart-People</a></div>
       <div><b>Company</b><a href="/about">About Us</a><a href="/#contact">Contact</a><a href="/#faq">Resources</a></div>
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
-    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>a:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$15"}}]
-b:["$","script","script-0",{"src":"/_next/static/chunks/2mjid21u71run.js","async":true,"nonce":"$undefined"}]
-c:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
-d:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-10:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-11:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:null
-1c:[["$","title","0",{"children":"Velantra | Business Management Platform"}],["$","meta","1",{"name":"description","content":"Velantra is one platform for smart Employee, gate, and people management."}]]
+    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>b:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$16"}}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0otiwebw-3wpq.js","async":true,"nonce":"$undefined"}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],null]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:null
+1d:[["$","title","0",{"children":"Velantra | Business Management Platform"}],["$","meta","1",{"name":"description","content":"Velantra is one platform for smart Employee, gate, and people management."}]]

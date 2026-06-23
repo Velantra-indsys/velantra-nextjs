@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
+import RouteTransition from '@/components/layout/RouteTransition';
 import './globals.css';
 import '@/styles/index.css';
 import '@/styles/about.css';
@@ -28,7 +29,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body className="antialiased overflow-x-hidden">
         <Script id="tailwind-config" strategy="beforeInteractive">{`window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };`}</Script>
         <Script src="https://cdn.tailwindcss.com" strategy="beforeInteractive" />
-        {children}
+        <RouteTransition>{children}</RouteTransition>
       </body>
     </html>
   );

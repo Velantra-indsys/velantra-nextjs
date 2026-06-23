@@ -3071,6 +3071,38 @@ body {
   overflow-x: clip;
   text-rendering: optimizeLegibility;
 }
+.route-transition {
+  min-height: 100svh;
+  animation: route-enter .46s cubic-bezier(.22, .61, .36, 1) both;
+}
+
+@keyframes route-enter {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+    filter: blur(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
+[data-parallax] {
+  --parallax-y: 0px;
+  translate: 0 var(--parallax-y);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-transition {
+    animation: none;
+  }
+
+  [data-parallax] {
+    translate: none;
+  }
+}
 
 body .container,
 body.home-page .container,

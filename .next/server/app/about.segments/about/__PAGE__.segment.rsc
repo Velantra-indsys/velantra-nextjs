@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2_417r9eo0rrh.js"],"default"]
-14:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+14:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 15:"$Sreact.suspense"
 3:T698,<div class="container about-hero-grid">
         <div class="about-hero-copy reveal">
@@ -31,7 +31,7 @@
           <p>At Velantra, we focus on building long-term partnerships with our clients by providing reliable solutions, continuous improvement, and ongoing support. As businesses evolve, our solutions evolve with them, ensuring sustained value and future readiness.</p>
           <p>Organizations choose Velantra because of our industry knowledge, hands-on experience, customer-first approach, and commitment to delivering technology that creates meaningful business outcomes. Our growing portfolio, including SmartGate, Smart HR, and Smart ID, reflects our mission to help businesses operate smarter, safer, and more efficiently.</p>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 about-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"about"}],["$","main",null,{"children":[[["$","section",null,{"className":"about-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"section about-intro","id":"who-we-are","dangerouslySetInnerHTML":{"__html":"$4"}}]],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],"$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2sJaq0xn3kMU1tqIRFVDP"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 about-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"about"}],["$","main",null,{"children":[[["$","section",null,{"className":"about-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"section about-intro","id":"who-we-are","dangerouslySetInnerHTML":{"__html":"$4"}}]],"$L5","$L6","$L7","$L8","$L9","$La","$Lb"]}],"$Lc"]}],["$Ld"],"$Le"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DyPlzAkK3G0y_KJc6cyxJ"}
 5:["$","section",null,{"className":"section about-coverage","id":"coverage","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\">\n          <div class=\"eyebrow\"><span></span> What Velantra Covers</div>\n          <h2>Four connected capabilities for daily operations.</h2>\n        </div>\n        <div class=\"coverage-grid\">\n          <article class=\"reveal\"><i class=\"bi bi-door-open\" aria-hidden=\"true\"></i><span>Live</span><h3>SmartGate</h3><p>Gate &amp; facility operations</p></article>\n          <article class=\"reveal delay-1\"><i class=\"bi bi-people\" aria-hidden=\"true\"></i><span>Live</span><h3>Smart HR</h3><p>Human resource management</p></article>\n          <article class=\"reveal delay-2\"><i class=\"bi bi-person-badge\" aria-hidden=\"true\"></i><span>Live</span><h3>Smart ID</h3><p>Employee companion app</p></article>\n          <article class=\"reveal\"><i class=\"bi bi-cpu\" aria-hidden=\"true\"></i><span>New</span><h3>AI + ERP Connect</h3><p>Integration &amp; intelligent reporting</p></article>\n        </div>\n      </div>"}}]
 f:T4cb,<div class="container">
         <div class="section-heading reveal">
@@ -114,6 +114,6 @@ b:["$","section",null,{"className":"page-cta people-closing-cta","dangerouslySet
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>c:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$13"}}]
-d:["$","script","script-0",{"src":"/_next/static/chunks/2_417r9eo0rrh.js","async":true}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true}]
 e:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
 16:null

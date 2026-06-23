@@ -1,15 +1,16 @@
 1:"$Sreact.fragment"
-2:I[79520,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],""]
-3:I[39756,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-4:I[37457,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-5:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2_417r9eo0rrh.js"],"default"]
-11:I[68027,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/0f3pe2j_frfvz.css","style"]
+2:I[79520,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+3:I[58266,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[39756,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[37457,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+12:I[68027,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/1hci746duiqr9.css","style"]
 :HL["/_next/static/chunks/2fhqq11p9-hwb.css","style"]
 :HL["/_next/static/chunks/3g_o6gzpjjcvt.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","style"]
 :HL["https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css","style"]
-6:Tcc9,<div class="container inner-hero-grid">
+7:Tcc9,<div class="container inner-hero-grid">
           <div class="people-hero-copy reveal">
             <div class="people-label"><span></span> Smart HR</div>
             <h1>Smart People.<br /><em>Smarter HR Management.</em></h1>
@@ -70,12 +71,12 @@
               </div>
             </div>
           </div>
-        </div>0:{"P":null,"c":["","smart-people"],"q":"","i":false,"f":[[["",{"children":["smart-people",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1z6x88ihszho0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L5",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9","$La","$Lb"]}],"$Lc"]}],["$Ld"],"$Le"]}],{},null,false,null]},null,false,"$@f"]},null,false,null],"$L10",false]],"m":"$undefined","G":["$11",["$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2sJaq0xn3kMU1tqIRFVDP"}
-1a:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:"$Sreact.suspense"
-1e:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-20:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
-15:T573,<div class="container">
+        </div>0:{"P":null,"c":["","smart-people"],"q":"","i":false,"f":[[["",{"children":["smart-people",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39iz7otspa_v-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"}]]}],["$","body",null,{"className":"antialiased overflow-x-hidden","children":[["$","$L2",null,{"id":"tailwind-config","strategy":"beforeInteractive","children":"window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };"}],["$","$L2",null,{"src":"https://cdn.tailwindcss.com","strategy":"beforeInteractive"}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L6",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$7"}}],"$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],{},null,false,null]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",["$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DyPlzAkK3G0y_KJc6cyxJ"}
+1b:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1f:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+21:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+16:T573,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Trusted by Growing Organizations</h2>
             <p>
@@ -103,8 +104,8 @@
               <i class="bi bi-shield-lock" aria-hidden="true"></i><h3>Secure Employee Records</h3>
             </article>
           </div>
-        </div>7:["$","section",null,{"className":"section people-trust","id":"features","dangerouslySetInnerHTML":{"__html":"$15"}}]
-16:T149f,<div class="container">
+        </div>8:["$","section",null,{"className":"section people-trust","id":"features","dangerouslySetInnerHTML":{"__html":"$16"}}]
+17:T149f,<div class="container">
           <div class="analytics-showcase-grid">
             <article class="analytics-showcase reveal">
               <header>
@@ -196,8 +197,8 @@
               </div>
             </article>
           </div>
-        </div>8:["$","section",null,{"className":"section people-analytics","id":"dashboard","dangerouslySetInnerHTML":{"__html":"$16"}}]
-17:T9e3,<div class="container">
+        </div>9:["$","section",null,{"className":"section people-analytics","id":"dashboard","dangerouslySetInnerHTML":{"__html":"$17"}}]
+18:T9e3,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Core HR Modules</h2>
             <p>
@@ -256,8 +257,8 @@
               </p>
             </article>
           </div>
-        </div>9:["$","section",null,{"className":"section people-modules","id":"modules","dangerouslySetInnerHTML":{"__html":"$17"}}]
-18:T652,<div class="container">
+        </div>a:["$","section",null,{"className":"section people-modules","id":"modules","dangerouslySetInnerHTML":{"__html":"$18"}}]
+19:T652,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Why Choose Smart HR?</h2>
           </div>
@@ -287,23 +288,23 @@
               <p>Access advanced reports and analytics instantly.</p>
             </article>
           </div>
-        </div>a:["$","section",null,{"className":"section people-why","id":"benefits","dangerouslySetInnerHTML":{"__html":"$18"}}]
-b:["$","section",null,{"className":"page-cta people-closing-cta","id":"contact","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n          <div>\n            <span>Ready to Transform Your HR Operations?</span>\n            <h2>Smart People. Smart HR Management.</h2>\n            <p>\n              Digitize your HR processes, empower your employees, and drive\n              performance with Smart HR.\n            </p>\n          </div>\n          <div class=\"people-cta-actions\">\n            <a class=\"button\" href=\"mailto:sales@indsys.com\"\n              >Book a Free Demo <b>&rarr;</b></a\n            >\n            <a class=\"button button-ghost\" href=\"mailto:sales@indsys.com\"\n              >Talk to Our Experts <b>&rarr;</b></a\n            >\n          </div>\n        </div>"}}]
-19:T462,<div class="container footer-grid">
+        </div>b:["$","section",null,{"className":"section people-why","id":"benefits","dangerouslySetInnerHTML":{"__html":"$19"}}]
+c:["$","section",null,{"className":"page-cta people-closing-cta","id":"contact","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n          <div>\n            <span>Ready to Transform Your HR Operations?</span>\n            <h2>Smart People. Smart HR Management.</h2>\n            <p>\n              Digitize your HR processes, empower your employees, and drive\n              performance with Smart HR.\n            </p>\n          </div>\n          <div class=\"people-cta-actions\">\n            <a class=\"button\" href=\"mailto:sales@indsys.com\"\n              >Book a Free Demo <b>&rarr;</b></a\n            >\n            <a class=\"button button-ghost\" href=\"mailto:sales@indsys.com\"\n              >Talk to Our Experts <b>&rarr;</b></a\n            >\n          </div>\n        </div>"}}]
+1a:T462,<div class="container footer-grid">
       <div><a class="brand footer-brand" href="/"><span class="brand-logo"><img src="/Velentra-logo.png" alt=""></span><span>Velantra</span></a><p>Velantra helps organizations build smarter, more secure, and efficient workplaces through innovative technology and digital transformation solutions.</p><div class="social-links"><a href="#" aria-label="LinkedIn">in</a><a href="#" aria-label="YouTube">yt</a><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">ig</a></div></div>
       <div><b>Products</b><a href="/smart-id">Smart-ID</a><a href="/smart-gate">Smart-Gate</a><a href="/smart-people">Smart-People</a></div>
       <div><b>Company</b><a href="/about">About Us</a><a href="/#contact">Contact</a><a href="/#faq">Resources</a></div>
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
-    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>c:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$19"}}]
-d:["$","script","script-0",{"src":"/_next/static/chunks/2_417r9eo0rrh.js","async":true,"nonce":"$undefined"}]
-e:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
-1d:[]
-f:"$W1d"
-10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],null]}]
-12:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f3pe2j_frfvz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-13:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-14:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1c:null
-21:[["$","title","0",{"children":"Smart People. Smarter HR Management. | Velantra"}],["$","meta","1",{"name":"description","content":"Velantra Smart People is a comprehensive HR management solution for employee lifecycle, attendance, payroll, performance, and reporting."}]]
+    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>d:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true,"nonce":"$undefined"}]
+f:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+1e:[]
+10:"$W1e"
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L22"}]}]}],null]}]
+13:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1hci746duiqr9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2fhqq11p9-hwb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3g_o6gzpjjcvt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:null
+22:[["$","title","0",{"children":"Smart People. Smarter HR Management. | Velantra"}],["$","meta","1",{"name":"description","content":"Velantra Smart People is a comprehensive HR management solution for employee lifecycle, attendance, payroll, performance, and reporting."}]]

@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect } from 'react';
 import { useReveal } from '@/hooks/useReveal';
 import { useScrollHeader } from '@/hooks/useScrollHeader';
@@ -20,10 +21,6 @@ export default function Header({ active }: { active: ActivePage }) {
   useScrollHeader();
   useTiltCard();
 
-  useEffect(() => {
-    const host = document.querySelector<HTMLElement>('[data-body-class]');
-    document.body.className = host?.dataset.bodyClass || 'antialiased overflow-x-hidden';
-  }, []);
 
   useEffect(() => {
     const toggle = document.querySelector<HTMLButtonElement>('.menu-toggle');
@@ -49,16 +46,16 @@ export default function Header({ active }: { active: ActivePage }) {
   return (
     <header className="site-header home-header">
       {active === 'home' ? (
-        <a className="brand brand-lockup" href="/" aria-label="Velantra home">
+        <Link className="brand brand-lockup" href="/" aria-label="Velantra home">
           <span className="brand-wordmark"><img src="/Velentra-logo-text.png" alt="Velantra Business Management Platform" /></span>
-        </a>
+        </Link>
       ) : null}
       <button className="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span><span></span></button>
       <nav className="main-nav" aria-label="Main navigation">
         {navItems.map((item) => (
-          <a key={item.key} className={active === item.key ? 'active' : undefined} href={item.href} aria-current={active === item.key ? 'page' : undefined}>{item.label}</a>
+          <Link key={item.key} className={active === item.key ? 'active' : undefined} href={item.href} aria-current={active === item.key ? 'page' : undefined}>{item.label}</Link>
         ))}
-        <a className="button button-small button-primary" href="/#contact">Contact</a>
+        <Link className="button button-small button-primary" href="/#contact">Contact</Link>
       </nav>
     </header>
   );

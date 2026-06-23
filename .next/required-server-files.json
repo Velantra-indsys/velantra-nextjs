@@ -104,7 +104,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\01",
+    "outputFileTracingRoot": "D:\\02",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -304,11 +304,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "D:\\01"
+      "root": "D:\\02"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "D:\\01",
+  "appDir": "D:\\02",
   "relativeAppDir": "",
   "files": [
     ".next\\package.json",

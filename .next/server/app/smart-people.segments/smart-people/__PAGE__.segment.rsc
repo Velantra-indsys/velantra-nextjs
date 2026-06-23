@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2_417r9eo0rrh.js"],"default"]
-11:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+11:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 3:Tcc9,<div class="container inner-hero-grid">
           <div class="people-hero-copy reveal">
@@ -63,7 +63,7 @@
               </div>
             </div>
           </div>
-        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2sJaq0xn3kMU1tqIRFVDP"}
+        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DyPlzAkK3G0y_KJc6cyxJ"}
 c:T573,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Trusted by Growing Organizations</h2>
@@ -285,6 +285,6 @@ f:T652,<div class="container">
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>9:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$10"}}]
-a:["$","script","script-0",{"src":"/_next/static/chunks/2_417r9eo0rrh.js","async":true}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true}]
 b:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
 13:null

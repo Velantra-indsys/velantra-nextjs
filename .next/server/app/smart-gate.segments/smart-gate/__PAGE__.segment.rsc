@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2_417r9eo0rrh.js"],"default"]
-16:I[97367,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+16:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 17:"$Sreact.suspense"
 3:T5b3,<div class="container smart-gate-hero-grid">
         <div class="smart-gate-hero-copy reveal">
@@ -39,7 +39,7 @@
             <div class="pillar-content"><h3>Contractors &amp; Services</h3><p>Manage service personnel, their equipment, and safe exit — nothing enters or leaves untracked.</p></div>
           </article>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2sJaq0xn3kMU1tqIRFVDP"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DyPlzAkK3G0y_KJc6cyxJ"}
 10:T6e7,<div class="container dashboard-layout">
         <div class="dashboard-copy reveal">
           <div class="eyebrow"><span></span> Real-time control</div>
@@ -181,6 +181,6 @@ c:["$","section",null,{"className":"page-cta people-closing-cta","dangerouslySet
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>d:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$15"}}]
-e:["$","script","script-0",{"src":"/_next/static/chunks/2_417r9eo0rrh.js","async":true}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true}]
 f:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
 18:null

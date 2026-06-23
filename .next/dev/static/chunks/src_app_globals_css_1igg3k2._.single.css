@@ -3311,6 +3311,40 @@ body {
   overflow-x: clip;
 }
 
+.route-transition {
+  min-height: 100svh;
+  animation: .46s cubic-bezier(.22, .61, .36, 1) both route-enter;
+}
+
+@keyframes route-enter {
+  from {
+    opacity: 0;
+    filter: blur(4px);
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur();
+    transform: translateY(0);
+  }
+}
+
+[data-parallax] {
+  --parallax-y: 0px;
+  translate: 0 var(--parallax-y);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-transition {
+    animation: none;
+  }
+
+  [data-parallax] {
+    translate: none;
+  }
+}
+
 body .container, body.home-page .container, body.product-v3 .container, body .site-footer.premium-footer .container {
   width: min(100% - calc(var(--site-gutter) * 2), 1280px);
   max-width: 1280px;
