@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
-16:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+16:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 17:"$Sreact.suspense"
 3:T5b3,<div class="container smart-gate-hero-grid">
         <div class="smart-gate-hero-copy reveal">
@@ -39,7 +39,7 @@
             <div class="pillar-content"><h3>Contractors &amp; Services</h3><p>Manage service personnel, their equipment, and safe exit — nothing enters or leaves untracked.</p></div>
           </article>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5KaJLrIGBZKgYzsXSWhXf"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"L8OeEpQDJK0TIKVTp1AMA"}
 10:T6e7,<div class="container dashboard-layout">
         <div class="dashboard-copy reveal">
           <div class="eyebrow"><span></span> Real-time control</div>

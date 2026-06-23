@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
-11:I[97367,["/_next/static/chunks/39iz7otspa_v-.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
+11:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 3:Tcc9,<div class="container inner-hero-grid">
           <div class="people-hero-copy reveal">
@@ -63,7 +63,7 @@
               </div>
             </div>
           </div>
-        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5KaJLrIGBZKgYzsXSWhXf"}
+        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"L8OeEpQDJK0TIKVTp1AMA"}
 c:T573,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Trusted by Growing Organizations</h2>

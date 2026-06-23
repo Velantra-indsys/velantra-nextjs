@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
-import Script from 'next/script';
 import RouteTransition from '@/components/layout/RouteTransition';
+import ScrollToTopButton from '@/components/shared/ScrollToTopButton';
 import './globals.css';
 import '@/styles/index.css';
 import '@/styles/about.css';
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-scroll-behavior="smooth">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
@@ -27,9 +27,8 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
       </head>
       <body className="antialiased overflow-x-hidden">
-        <Script id="tailwind-config" strategy="beforeInteractive">{`window.tailwind = window.tailwind || {}; window.tailwind.config = { corePlugins: { preflight: false } };`}</Script>
-        <Script src="https://cdn.tailwindcss.com" strategy="beforeInteractive" />
         <RouteTransition>{children}</RouteTransition>
+        <ScrollToTopButton />
       </body>
     </html>
   );
