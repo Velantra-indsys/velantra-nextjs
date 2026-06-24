@@ -519,7 +519,6 @@ const ctas = {
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Book a Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="https://wa.me/916374326329" target="_blank" rel="noopener">Talk to Our Team <b>&rarr;</b></a>
         </div>
       </div>`
     },
@@ -565,9 +564,6 @@ const ctas = {
             <a class="button" href="mailto:sales@indsys.com"
               >Book a Free Demo <b>&rarr;</b></a
             >
-            <a class="button button-ghost" href="mailto:sales@indsys.com"
-              >Talk to Our Experts <b>&rarr;</b></a
-            >
           </div>
         </div>`
     }
@@ -582,7 +578,7 @@ function PageCta({ variant }) {
         }
     }, void 0, false, {
         fileName: "[project]/src/components/shared/PageCta.tsx",
-        lineNumber: 61,
+        lineNumber: 57,
         columnNumber: 10
     }, this);
 }

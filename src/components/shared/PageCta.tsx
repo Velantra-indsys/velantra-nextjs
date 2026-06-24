@@ -10,7 +10,6 @@ const ctas: Record<Variant, { className: string; id?: string; html: string }> = 
         </div>
         <div class="people-cta-actions">
           <a class="button" href="/#contact">Book a Demo <b>&rarr;</b></a>
-          <a class="button button-ghost" href="https://wa.me/916374326329" target="_blank" rel="noopener">Talk to Our Team <b>&rarr;</b></a>
         </div>
       </div>` },
   'smart-gate': {
@@ -48,9 +47,6 @@ const ctas: Record<Variant, { className: string; id?: string; html: string }> = 
           <div class="people-cta-actions">
             <a class="button" href="mailto:sales@indsys.com"
               >Book a Free Demo <b>&rarr;</b></a
-            >
-            <a class="button button-ghost" href="mailto:sales@indsys.com"
-              >Talk to Our Experts <b>&rarr;</b></a
             >
           </div>
         </div>` },
