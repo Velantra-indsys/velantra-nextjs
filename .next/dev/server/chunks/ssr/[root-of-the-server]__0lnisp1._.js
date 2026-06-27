@@ -194,7 +194,7 @@ function GateDashboard() {
         <div class="dashboard-copy reveal">
           <div class="eyebrow"><span></span> Real-time control</div>
           <h2>Complete Visibility with Intelligent Dashboard.</h2>
-          <p>Monitor every visitor movement from a centralized dashboard. Manage approvals, check-ins, active visitors, departures, and overstays in real time.</p>
+          <p>Your security team shouldn't be managing gate operations with a clipboard and a phone. SmartGate's live dashboard gives them — and you — total situational awareness from any screen, at any time.</p>
     
           <a class="button button-primary" href="/#contact">Explore Dashboard <b>&rarr;</b></a>
         </div>

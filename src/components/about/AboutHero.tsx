@@ -7,7 +7,7 @@ export default function AboutHero() {
         <div class="about-hero-copy reveal">
           <div class="eyebrow"><span></span> About Velantra</div>
           <h1>We Connect the Systems Your Business Runs On</h1>
-          <p>Velantra is a business technology company built on more than 25 years of industry and operational experience. We help organizations improve efficiency, strengthen operational control, and accelerate digital transformation through practical, scalable, and integrated technology solutions.</p>
+          <p>Velantra is a business technology company built on 20+ years of industry and operational experience. We help organizations improve efficiency, strengthen operational control, and accelerate digital transformation through practical, scalable, and integrated technology solutions.</p>
           <div class="hero-actions">
             <a class="button button-primary" href="#solutions">Explore Solutions <b>&rarr;</b></a>
             <a class="button button-ghost" href="/#contact">Book a Demo</a>
@@ -29,9 +29,9 @@ export default function AboutHero() {
           <h2>Technology That Works With Your Business</h2>
         </div>
         <div class="about-copy reveal delay-1">
-          <p>Our vision is to help organizations build smarter, more connected, and more efficient workplaces by combining deep operational expertise with modern technology. We believe technology should solve real business challenges, support growth, and create measurable value.</p>
-          <p>At Velantra, we focus on building long-term partnerships with our clients by providing reliable solutions, continuous improvement, and ongoing support. As businesses evolve, our solutions evolve with them, ensuring sustained value and future readiness.</p>
-          <p>Organizations choose Velantra because of our industry knowledge, hands-on experience, customer-first approach, and commitment to delivering technology that creates meaningful business outcomes. Our growing portfolio, including SmartGate, Smart HR, and Smart ID, reflects our mission to help businesses operate smarter, safer, and more efficiently.</p>
+          <p>We've spent more than 20 years inside the operations of manufacturers, facilities teams, and enterprise businesses. We know what the security guard actually does at the gate at 6am. We know how payroll day feels in an HR team running on Excel. We built Velantra because we couldn't find a product that understood both</p>
+          <p>Every product in the Velantra suite was designed around real workflows, not ideal ones. That means it is designed for fast deployment — not multi-month implementation projects. It works on the devices your team already has. And it connects to the systems you're not ready to replace yet.</p>
+          <p>Organizations choose Velantra because we come in with answers, not just software. Our team has implemented, operated, and optimised the same kinds of processes you're managing — which means the demo we show you will look like your business, not a generic slideshow. Our growing portfolio, including SmartGate, Smart HR, and Smart ID, reflects our mission to help businesses operate smarter, safer, and more efficiently.</p>
         </div>
       </div>` }} />
     </>

@@ -9,8 +9,8 @@ export default function AboutWork() {
         </div>
         <div class="work-steps">
           <article class="reveal"><i class="bi bi-search" aria-hidden="true"></i><h3>Assess Your Needs</h3><p>We analyze your existing processes, security requirements, workforce challenges, and operational goals to identify the best-fit solution.</p></article>
-          <article class="reveal delay-1"><i class="bi bi-sliders" aria-hidden="true"></i><h3>Configure & Integrate</h3><p>Our team customizes the platform and connects it with your existing systems, ensuring a seamless deployment experience.</p></article>
-          <article class="reveal delay-2"><i class="bi bi-mortarboard" aria-hidden="true"></i><h3>Train & Empower</h3><p>We provide practical training and guidance to administrators, managers, and employees for maximum adoption.</p></article>
+          <article class="reveal delay-1"><i class="bi bi-sliders" aria-hidden="true"></i><h3>Configure & Integrate</h3><p>We configure SmartGate, Smart HR, or Smart ID around your actual workflows — and connect to your existing ERP or systems without a replacement project.</p></article>
+          <article class="reveal delay-2"><i class="bi bi-mortarboard" aria-hidden="true"></i><h3>Train & Empower</h3><p>We train your security team, HR officers, and floor managers directly — not just IT. Because adoption happens at the gate and the HR desk, not in a server room.</p></article>
           <article class="reveal"><i class="bi bi-life-preserver" aria-hidden="true"></i><h3>Support & Grow</h3><p>We continuously support your organization with updates, enhancements, and recommendations as your needs evolve.</p></article>
         </div>
       </div>` }} />

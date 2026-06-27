@@ -3,8 +3,7 @@ export default function WhatWeDoSection() {
     <>
       <section className="home-section what-section" id="what-we-do" dangerouslySetInnerHTML={{ __html: String.raw`<div class="container what-grid">
         <div class="what-copy reveal">
-          <div class="home-heading"><span>What We Do</span><h2>Innovation Meets Business</h2><p>Making business operations simpler, smarter, and more connected.
-Empowering organizations with technology built for the future.</p></div>
+          <div class="home-heading"><span>What We Do</span><h2>We Built What Operations Teams Actually Need</h2><p>After 20+ years working inside factories, facilities, and enterprise operations, we stopped waiting for a product that understood the real problem. So we built one.</p></div>
           <div class="what-actions">
             <a class="button button-primary" href="#products">Get Started</a>
             <a class="button button-secondary" href="#contact">Learn More</a>

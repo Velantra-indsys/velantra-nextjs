@@ -42,8 +42,8 @@ export default function SmartIdHero() {
         <div class="smart-id-hero-copy reveal">
           <div class="eyebrow"><span></span> Smart ID</div>
           <h1><span class="h1-big">One App.</span><span class="h1-sub">Everything Your Employees Need.</span></h1>
-          <h2>Leave the complexity behind.</h2>
-          <p>Smart ID handles your everyday employee management  From attendance tracking and leave management to approvals, employee information, surveys, announcements, and expense claims, Smart ID brings your entire employee management ecosystem together through a single mobile platform.</p>
+          <h2>Stop managing employees through WhatsApp groups and Excel sheets.</h2>
+          <p>If your employees are chasing managers on WhatsApp for leave approvals, or HR is still maintaining attendance in registers — there's a better way. Smart ID gives every employee a single app for everything they need at work, and gives managers the visibility to act without being chased.</p>
           <div class="hero-actions"><a class="button button-ghost" href="#features">Explore Features</a></div>
         </div>
 

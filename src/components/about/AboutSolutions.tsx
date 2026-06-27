@@ -30,8 +30,8 @@ export default function AboutSolutions() {
           </article>
           <article class="solution-feature ai-feature reveal delay-1">
             <div class="solution-title"><i class="bi bi-cpu" aria-hidden="true"></i><span><small>AI Integration &amp; Intelligent Reporting</small><h3>AI + ERP Connect</h3></span></div>
-            <p>Velantra's AI integration layer sits on top of your existing ERP without replacing it. Ask questions in plain language, get reports in seconds, and connect HR, gate, and operational data to the records your ERP already holds.</p>
-            <ul><li>Connects to your ERP with no replacement project</li><li>Natural language queries on your own business data</li><li>Automated reports delivered on schedule</li><li>Anomaly detection and trend alerts without manual analysis</li></ul>
+            <p>Your ERP holds the data. AI + ERP Connect makes it useful — turning operational records into answers, alerts, and decisions without a single manual report.</p>
+            <ul><li>Works with your existing ERP — no replacement required</li><li>Business questions answered in plain language</li><li>Reports and alerts delivered automatically</li><li>Connects gate, HR, and ERP data in one view</li></ul>
           </article>
         </div>
       </div>` }} />

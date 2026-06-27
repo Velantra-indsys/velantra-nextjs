@@ -9,10 +9,10 @@ export default function AboutCoverage() {
           <h2>Four connected capabilities for daily operations.</h2>
         </div>
         <div class="coverage-grid">
-          <article class="reveal"><i class="bi bi-door-open" aria-hidden="true"></i><span>Live</span><h3>SmartGate</h3><p>Gate &amp; facility operations</p></article>
-          <article class="reveal delay-1"><i class="bi bi-people" aria-hidden="true"></i><span>Live</span><h3>Smart HR</h3><p>Human resource management</p></article>
-          <article class="reveal delay-2">${getSmartIdIconMarkup('aboutCoverageSmartId', 'smart-id-home-icon')}<span>Live</span><h3>Smart ID</h3><p>Employee companion app</p></article>
-          <article class="reveal"><i class="bi bi-cpu" aria-hidden="true"></i><span>New</span><h3>AI + ERP Connect</h3><p>Integration &amp; intelligent reporting</p></article>
+          <article class="reveal"><i class="bi bi-door-open" aria-hidden="true"></i><span>Live</span><h3>SmartGate</h3><p>Every person and vehicle at your gate — known, approved, and on record.</p></article>
+          <article class="reveal delay-1"><i class="bi bi-people" aria-hidden="true"></i><span>Live</span><h3>Smart HR</h3><p>Hiring to exit. Attendance to payroll. One system that doesn't lose the thread.</p></article>
+          <article class="reveal delay-2">${getSmartIdIconMarkup('aboutCoverageSmartId', 'smart-id-home-icon')}<span>Live</span><h3>Smart ID</h3><p>Your employees manage their workday. HR stops answering the same questions.p</p></article>
+          <article class="reveal"><i class="bi bi-cpu" aria-hidden="true"></i><span>New</span><h3>AI + ERP Connect</h3><p>Your ERP data, turned into answers — without a single manual report.</p></article>
         </div>
       </div>` }} />
     </>

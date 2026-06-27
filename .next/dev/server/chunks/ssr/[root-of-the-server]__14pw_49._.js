@@ -107,7 +107,7 @@ function HeroSection() {
                 __html: String.raw`<div class="container platform-hero-grid">
         <div class="platform-copy reveal">
           <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span></h1>
-          <p>Velantra connect people, processes, and technology — creating smarter workplaces, empowering teams, and delivering real business transformation.</p>
+          <p>Most businesses run on disconnected tools — one for HR, one for the gate, one for the ERP. Velantra brings them together. One platform, one view, one place to act.</p>
           <div class="platform-actions">
             <a class="button button-primary" href="#products">Explore Products <b>→</b></a>
             <a class="button button-secondary" href="#contact">Book a Demo</a>
@@ -242,8 +242,7 @@ function WhatWeDoSection() {
             dangerouslySetInnerHTML: {
                 __html: String.raw`<div class="container what-grid">
         <div class="what-copy reveal">
-          <div class="home-heading"><span>What We Do</span><h2>Innovation Meets Business</h2><p>Making business operations simpler, smarter, and more connected.
-Empowering organizations with technology built for the future.</p></div>
+          <div class="home-heading"><span>What We Do</span><h2>We Built What Operations Teams Actually Need</h2><p>After 20+ years working inside factories, facilities, and enterprise operations, we stopped waiting for a product that understood the real problem. So we built one.</p></div>
           <div class="what-actions">
             <a class="button button-primary" href="#products">Get Started</a>
             <a class="button button-secondary" href="#contact">Learn More</a>
