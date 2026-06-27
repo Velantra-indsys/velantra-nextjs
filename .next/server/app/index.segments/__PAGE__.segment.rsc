@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2u_g4jz_1_3b8.js"],"default"]
-a:I[57292,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2u_g4jz_1_3b8.js"],"default"]
-c:I[1815,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2u_g4jz_1_3b8.js"],"default"]
+2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/218m4mx6ke2x4.js"],"default"]
+a:I[57292,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/218m4mx6ke2x4.js"],"default"]
+c:I[1815,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/218m4mx6ke2x4.js"],"default"]
 e:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 f:"$Sreact.suspense"
-3:T1937,<div class="container platform-hero-grid">
+3:T1985,<div class="container platform-hero-grid">
         <div class="platform-copy reveal">
-          <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span></h1>
-          <p>Velantra connect people, processes, and technology — creating smarter workplaces, empowering teams, and delivering real business transformation.</p>
+          <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span><span>Your Operations,</span><span>Finally Connected</span></h1>
+          <p>Most businesses run on disconnected tools — one for HR, one for the gate, one for the ERP. Velantra brings them together. One platform, one view, one place to act.</p>
           <div class="platform-actions">
             <a class="button button-primary" href="#products">Explore Products <b>→</b></a>
             <a class="button button-secondary" href="#contact">Book a Demo</a>
@@ -79,12 +79,11 @@ f:"$Sreact.suspense"
           <div class="showcase-card card-assets"><svg><use href="#ic-vehicle"/></svg><span>Vehicle<br>Tracking</span></div>
           <div class="showcase-card card-helpdesk"><svg><use href="#ic-dashboard"/></svg><span>Reports &amp;<br>Dashboard</span></div>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OP_lvNX3pMNgeyUt8vv_Y"}
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"home-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"home"}],["$","main",null,{"children":[["$","section",null,{"className":"platform-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"p8SF2ELWcSr7vbtAOEBqS"}
 4:["$","$La",null,{}]
-b:T11ca,<div class="container what-grid">
+b:T1202,<div class="container what-grid">
         <div class="what-copy reveal">
-          <div class="home-heading"><span>What We Do</span><h2>Innovation Meets Business</h2><p>Making business operations simpler, smarter, and more connected.
-Empowering organizations with technology built for the future.</p></div>
+          <div class="home-heading"><span>What We Do</span><h2>We Built What Operations Teams Actually Need</h2><p>After 20+ years working inside factories, facilities, and enterprise operations, we stopped waiting for a product that understood the real problem. So we built one.</p></div>
           <div class="what-actions">
             <a class="button button-primary" href="#products">Get Started</a>
             <a class="button button-secondary" href="#contact">Learn More</a>
@@ -130,6 +129,6 @@ d:T462,<div class="container footer-grid">
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
     <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>7:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$d"}}]
-8:["$","script","script-0",{"src":"/_next/static/chunks/2u_g4jz_1_3b8.js","async":true}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/218m4mx6ke2x4.js","async":true}]
 9:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
 10:null

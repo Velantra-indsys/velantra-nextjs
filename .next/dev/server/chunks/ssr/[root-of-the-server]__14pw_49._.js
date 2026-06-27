@@ -106,7 +106,7 @@ function HeroSection() {
             dangerouslySetInnerHTML: {
                 __html: String.raw`<div class="container platform-hero-grid">
         <div class="platform-copy reveal">
-          <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span></h1>
+          <h1><span><em>One</em> Platform.</span><span><em>One</em> Ecosystem.</span><span><em>On</em> Your Hands.</span><span>Your Operations,</span><span>Finally Connected</span></h1>
           <p>Most businesses run on disconnected tools — one for HR, one for the gate, one for the ERP. Velantra brings them together. One platform, one view, one place to act.</p>
           <div class="platform-actions">
             <a class="button button-primary" href="#products">Explore Products <b>→</b></a>

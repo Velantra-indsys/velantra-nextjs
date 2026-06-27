@@ -10119,6 +10119,34 @@ body.product-v3 {
   left: 0;
 }
 
+body.product-v3.smart-id-refresh .smart-security .fingerprint-card p {
+  color: #686b7b;
+  max-width: 620px;
+  margin: 0 0 18px;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.security-card-action {
+  color: #111222;
+  background: #ffffffa8;
+  border: 1px solid #1112221a;
+  border-radius: 9px;
+  align-items: center;
+  gap: 14px;
+  min-height: 50px;
+  padding: 0 24px;
+  font-size: 14px;
+  font-weight: 800;
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.security-card-action span {
+  font-size: 18px;
+  line-height: 1;
+}
+
 .smart-id-cta {
   background: radial-gradient(circle at 85% 10%, #7048ff40, #0000 34%), linear-gradient(145deg, #fff, #e8e5fa);
   padding: 90px 0;
@@ -11984,6 +12012,14 @@ body.product-v3 {
   margin: 0;
   font-size: clamp(17px, 1.35vw, 21px);
   line-height: 1.2;
+}
+
+.role-grid p {
+  max-width: 340px;
+  color: var(--gate-muted);
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
 @media (max-width: 900px) {

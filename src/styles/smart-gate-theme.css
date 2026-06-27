@@ -1586,6 +1586,13 @@
   font-size: clamp(17px, 1.35vw, 21px);
   line-height: 1.2;
 }
+.role-grid p {
+  max-width: 340px;
+  margin: 0;
+  color: var(--gate-muted);
+  font-size: 16px;
+  line-height: 1.65;
+}
 @media (max-width: 900px) {
   .role-grid::before {
     display: none;

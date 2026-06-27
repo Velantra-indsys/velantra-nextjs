@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 2:I[3374,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0uxczjmi--vd0.js"],"default"]
-16:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
-17:"$Sreact.suspense"
+17:I[97367,["/_next/static/chunks/3bvqz1quv51h1.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
 3:T549,<div class="container smart-gate-hero-grid">
         <div class="smart-gate-hero-copy reveal">
           <div class="eyebrow"><span></span> Gate Management </div>
@@ -38,12 +38,12 @@
             <div class="pillar-content"><h3>Contractors &amp; Services</h3><p>Manage service personnel, their equipment, and safe exit — nothing enters or leaves untracked.</p></div>
           </article>
         </div>
-      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OP_lvNX3pMNgeyUt8vv_Y"}
-10:T6e7,<div class="container dashboard-layout">
+      </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 gate-page smart-gate-refresh antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-gate"}],["$","main",null,{"children":[["$","section",null,{"className":"smart-gate-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","section",null,{"className":"gate-trust section","id":"overview","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}],"$Ld"]}],["$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"p8SF2ELWcSr7vbtAOEBqS"}
+10:T71b,<div class="container dashboard-layout">
         <div class="dashboard-copy reveal">
           <div class="eyebrow"><span></span> Real-time control</div>
           <h2>Complete Visibility with Intelligent Dashboard.</h2>
-          <p>Monitor every visitor movement from a centralized dashboard. Manage approvals, check-ins, active visitors, departures, and overstays in real time.</p>
+          <p>Your security team shouldn't be managing gate operations with a clipboard and a phone. SmartGate's live dashboard gives them — and you — total situational awareness from any screen, at any time.</p>
     
           <a class="button button-primary" href="/#contact">Explore Dashboard <b>&rarr;</b></a>
         </div>
@@ -170,16 +170,40 @@
           </div>
         </div>
       </div>9:["$","section",null,{"className":"section gate-module-section con-bg","id":"contractors","dangerouslySetInnerHTML":{"__html":"$14"}}]
-a:["$","section",null,{"className":"section roles-section","id":"roles","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Role-based workflow</div><h2>Built for Everyone Involved.</h2></div>\n        <div class=\"role-grid\">\n          <article class=\"reveal\">\n            <i class=\"bi bi-person\" aria-hidden=\"true\"></i>\n            <h3>Visitor</h3>\n          </article>\n          <article class=\"reveal delay-1\">\n            <i class=\"bi bi-person-check\" aria-hidden=\"true\"></i>\n            <h3>Host</h3>\n          </article>\n          <article class=\"reveal delay-2\">\n            <i class=\"bi bi-shield-lock\" aria-hidden=\"true\"></i>\n            <h3>Security Team</h3>\n          </article>\n          <article class=\"reveal\">\n            <i class=\"bi bi-speedometer2\" aria-hidden=\"true\"></i>\n            <h3>Administrator</h3>\n          </article>\n        </div>\n      </div>"}}]
+15:T58a,<div class="container">
+        <div class="section-heading centered reveal"><div class="eyebrow"><span></span> Role-based workflow</div><h2>Built for Everyone Involved.</h2></div>
+        <div class="role-grid">
+          <article class="reveal">
+            <i class="bi bi-person" aria-hidden="true"></i>
+            <h3>Visitor</h3>
+            <p>Registers digitally, receives a pass instantly, and walks in without paperwork or waiting at a counter.</p>
+          </article>
+          <article class="reveal delay-1">
+            <i class="bi bi-person-check" aria-hidden="true"></i>
+            <h3>Host</h3>
+            <p>Gets notified the moment a visitor registers, approves or declines from their phone, and never gets caught off-guard.</p>
+          </article>
+          <article class="reveal delay-2">
+            <i class="bi bi-check-lg" aria-hidden="true"></i>
+            <h3>Security Team</h3>
+            <p>Sees every active pass, every pending entry, every overstay &mdash; one screen, no paperwork, no phone calls to verify.</p>
+          </article>
+          <article class="reveal">
+            <i class="bi bi-clock-history" aria-hidden="true"></i>
+            <h3>Administrator</h3>
+            <p>Full audit trail for every movement across every gate. Reports available any time &mdash; without asking security to dig through registers.</p>
+          </article>
+        </div>
+      </div>a:["$","section",null,{"className":"section roles-section","id":"roles","dangerouslySetInnerHTML":{"__html":"$15"}}]
 b:["$","section",null,{"className":"section industries-section","id":"industries","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div class=\"section-heading centered reveal\"><div class=\"eyebrow\"><span></span> Industries we serve</div><h2>Secure visitor journeys for every workplace.</h2></div>\n        <div class=\"industry-grid reveal\"><span>Corporate Offices</span><span>Manufacturing Plants</span><span>Large Organizationsal Institutions</span><span>Industrial Facilities</span><span>Construction Sites</span></div>\n      </div>"}}]
 c:["$","section",null,{"className":"page-cta people-closing-cta","dangerouslySetInnerHTML":{"__html":"<div class=\"container\">\n        <div>\n          <span>Ready to Digitize Your Gate Operations?</span>\n          <h2>Secure Every Entry. Simplify Every Exit.</h2>\n          <p>Take complete control of visitors, materials, vehicles, and contractors — all from one intelligent gate management platform.</p>\n        </div>\n        <div class=\"people-cta-actions\">\n          <a class=\"button\" href=\"/#contact\">Schedule a Free Demo <b>&rarr;</b></a>\n        </div>\n      </div>"}}]
-15:T462,<div class="container footer-grid">
+16:T462,<div class="container footer-grid">
       <div><a class="brand footer-brand" href="/"><span class="brand-logo"><img src="/Velentra-logo.png" alt=""></span><span>Velantra</span></a><p>Velantra helps organizations build smarter, more secure, and efficient workplaces through innovative technology and digital transformation solutions.</p><div class="social-links"><a href="#" aria-label="LinkedIn">in</a><a href="#" aria-label="YouTube">yt</a><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">ig</a></div></div>
       <div><b>Products</b><a href="/smart-id">Smart-ID</a><a href="/smart-gate">Smart-Gate</a><a href="/smart-people">Smart-People</a></div>
       <div><b>Company</b><a href="/about">About Us</a><a href="/#contact">Contact</a><a href="/#faq">Resources</a></div>
       <div><b>Contact</b><a href="https://wa.me/916374326329" target="_blank" rel="noopener">WhatsApp</a><a href="mailto:sales@indsys.com">sales@indsys.com</a></div>
     </div>
-    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>d:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$15"}}]
+    <div class="container footer-bottom"><span>&copy; 2026 Velantra. All Rights Reserved.</span><span>Powered by <strong>INDSYS</strong></span></div>d:["$","footer",null,{"className":"site-footer premium-footer","dangerouslySetInnerHTML":{"__html":"$16"}}]
 e:["$","script","script-0",{"src":"/_next/static/chunks/0uxczjmi--vd0.js","async":true}]
-f:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
-18:null
+f:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+19:null

@@ -4,14 +4,12 @@ export default function SmartPeopleHero() {
       <section className="inner-hero people-hero" dangerouslySetInnerHTML={{ __html: String.raw`<div class="container inner-hero-grid">
           <div class="people-hero-copy reveal">
             <div class="people-label"><span></span> Smart HR</div>
-            <h1>Smart People.<br /><em>Smarter HR Management.</em></h1>
+            <h1>HR That Runs.<br /><em>Without Chasing Anyone.</em></h1>
             <h2>
-              Manage Your Entire Employee Lifecycle from One Powerful Platform
+              From First Day to Final Settlement — One System Handles It All
             </h2>
             <p>
-              Smart HR is a comprehensive HR management solution that helps
-              organizations automate processes, improve employee experience,
-              and drive performance with real-time insights.
+              Most HR teams spend more time chasing managers for approvals and correcting payroll errors than actually managing people. Smart HR changes that — every process flows, every record is current, and payroll closes on time without a weekend scramble.
             </p>
             <!-- <ul class="people-hero-list">
               <li>Employee Management</li>

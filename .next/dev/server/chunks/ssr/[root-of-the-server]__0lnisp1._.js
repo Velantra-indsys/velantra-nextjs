@@ -447,18 +447,22 @@ function GateRoles() {
           <article class="reveal">
             <i class="bi bi-person" aria-hidden="true"></i>
             <h3>Visitor</h3>
+            <p>Registers digitally, receives a pass instantly, and walks in without paperwork or waiting at a counter.</p>
           </article>
           <article class="reveal delay-1">
             <i class="bi bi-person-check" aria-hidden="true"></i>
             <h3>Host</h3>
+            <p>Gets notified the moment a visitor registers, approves or declines from their phone, and never gets caught off-guard.</p>
           </article>
           <article class="reveal delay-2">
-            <i class="bi bi-shield-lock" aria-hidden="true"></i>
+            <i class="bi bi-check-lg" aria-hidden="true"></i>
             <h3>Security Team</h3>
+            <p>Sees every active pass, every pending entry, every overstay &mdash; one screen, no paperwork, no phone calls to verify.</p>
           </article>
           <article class="reveal">
-            <i class="bi bi-speedometer2" aria-hidden="true"></i>
+            <i class="bi bi-clock-history" aria-hidden="true"></i>
             <h3>Administrator</h3>
+            <p>Full audit trail for every movement across every gate. Reports available any time &mdash; without asking security to dig through registers.</p>
           </article>
         </div>
       </div>`
@@ -488,7 +492,7 @@ function GateIndustries() {
             dangerouslySetInnerHTML: {
                 __html: String.raw`<div class="container">
         <div class="section-heading centered reveal"><div class="eyebrow"><span></span> Industries we serve</div><h2>Secure visitor journeys for every workplace.</h2></div>
-        <div class="industry-grid reveal"><span>Corporate Offices</span><span>Manufacturing Plants</span><span>Large Organizationsal Institutions</span><span>Industrial Facilities</span><span>Construction Sites</span></div>
+        <div class="industry-grid reveal"><span>Manufacturing Plantss</span><span>Corporate Offices & IT Parks</span><span>Logistics & Warehousing</span><span>Construction & Infrastructure</span><span>Large Organisations & Institutional Campuses</span><span>Industrial Facilities</span></div>
       </div>`
             }
         }, void 0, false, {

@@ -107,14 +107,12 @@ function SmartPeopleHero() {
                 __html: String.raw`<div class="container inner-hero-grid">
           <div class="people-hero-copy reveal">
             <div class="people-label"><span></span> Smart HR</div>
-            <h1>Smart People.<br /><em>Smarter HR Management.</em></h1>
+            <h1>HR That Runs.<br /><em>Without Chasing Anyone.</em></h1>
             <h2>
-              Manage Your Entire Employee Lifecycle from One Powerful Platform
+              From First Day to Final Settlement — One System Handles It All
             </h2>
             <p>
-              Smart HR is a comprehensive HR management solution that helps
-              organizations automate processes, improve employee experience,
-              and drive performance with real-time insights.
+              Most HR teams spend more time chasing managers for approvals and correcting payroll errors than actually managing people. Smart HR changes that — every process flows, every record is current, and payroll closes on time without a weekend scramble.
             </p>
             <!-- <ul class="people-hero-list">
               <li>Employee Management</li>
@@ -192,30 +190,29 @@ function PeopleTrust() {
             dangerouslySetInnerHTML: {
                 __html: String.raw`<div class="container">
           <div class="section-heading centered reveal">
-            <h2>Trusted by Growing Organizations</h2>
+            <h2>Built for Operations-First Organizations</h2>
             <p>
-              Smart HR helps businesses digitize HR operations, improve
-              productivity, and simplify employee management.
+              Smart HR is designed for businesses where HR isn't just administration — it's the backbone of how people, shifts, and payroll actually work together every day
             </p>
           </div>
           <div class="people-trust-grid">
             <article class="reveal">
-              <i class="bi bi-activity" aria-hidden="true"></i><h3>Real-Time Employee Insights</h3>
+              <i class="bi bi-activity" aria-hidden="true"></i><h3>Real-Time Employee Insights</h3><br><p>Know what's happening across your workforce — attendance, leave, and productivity — without waiting for end-of-day reports.</p>
             </article>
             <article class="reveal delay-1">
-              <i class="bi bi-calendar-check" aria-hidden="true"></i><h3>Automated Attendance Tracking</h3>
+              <i class="bi bi-calendar-check" aria-hidden="true"></i><h3>Automated Attendance Tracking</h3><br><p>Attendance recorded accurately without paper registers or manual entry. Managers see who's present, late, or absent — instantly.</p>
             </article>
             <article class="reveal delay-2">
-              <i class="bi bi-cash-stack" aria-hidden="true"></i><h3>Streamlined Payroll Processing</h3>
+              <i class="bi bi-cash-stack" aria-hidden="true"></i><h3>Streamlined Payroll Processing</h3><br><p>Run payroll without manual reconciliation. Salary calculations, statutory deductions, and compliance filings handled automatically every cycle.</p>
             </article>
             <article class="reveal">
-              <i class="bi bi-graph-up-arrow" aria-hidden="true"></i><h3>Performance Analytics</h3>
+              <i class="bi bi-graph-up-arrow" aria-hidden="true"></i><h3>Performance Analytics</h3><br><p>Set goals, track progress, and conduct reviews throughout the year — so performance conversations happen on data, not memory.</p>
             </article>
             <article class="reveal delay-1">
-              <i class="bi bi-diagram-3" aria-hidden="true"></i><h3>Department-Based Reporting</h3>
+              <i class="bi bi-diagram-3" aria-hidden="true"></i><h3>Department-Based Reporting</h3><br><p>Break down workforce data by department, location, or team. Give each manager the view they need without exposing what they don't.</p> 
             </article>
             <article class="reveal delay-2">
-              <i class="bi bi-shield-lock" aria-hidden="true"></i><h3>Secure Employee Records</h3>
+              <i class="bi bi-shield-lock" aria-hidden="true"></i><h3>Secure Employee Records</h3><br><p>Every employee document, contract, and record stored securely with role-based access. Audit-ready at any point in time.</p>
             </article>
           </div>
         </div>`
@@ -362,62 +359,37 @@ function PeopleModules() {
             dangerouslySetInnerHTML: {
                 __html: String.raw`<div class="container">
           <div class="section-heading centered reveal">
-            <h2>Core HR Modules</h2>
+            <h2>Built for the Full HR Lifecycle</h2>
             <p>
-              Everything you need to manage your people, processes, and
-              performance in one place.
+              Smart HR covers every stage — so nothing falls through the cracks between joining and exit.
             </p>
           </div>
           <div class="people-module-grid">
             <article class="reveal">
-              <i class="bi bi-person-vcard" aria-hidden="true"></i><h3>Employee Management</h3>
+              <i class="bi bi-person-vcard" aria-hidden="true"></i><h3>From Day One to Day Done</h3>
               <p>
-                Manage employee information, documents, roles, and
-                organizational structure.
+                Every employee record, document, and role change — in one place from the moment they join to the moment they leave. No re-entering data across systems.
               </p>
             </article>
             <article class="reveal delay-1">
-              <i class="bi bi-person-plus" aria-hidden="true"></i><h3>Recruitment Management</h3>
+              <i class="bi bi-person-plus" aria-hidden="true"></i><h3>Attendance and Leave That Run Themselves</h3>
               <p>
-                Streamline hiring with job postings, applicant tracking,
-                interviews, and onboarding.
+                Shifts tracked, leave applied and approved, balances updated automatically. HR doesn't chase. Managers don't wait. Employees always know where they stand.
               </p>
             </article>
             <article class="reveal delay-2">
-              <i class="bi bi-arrow-repeat" aria-hidden="true"></i><h3>Employee Lifecycle Management</h3>
+              <i class="bi bi-arrow-repeat" aria-hidden="true"></i><h3>Payroll That Closes on Time. Every Time.</h3>
               <p>
-                Manage the complete employee journey from onboarding to exit
-                seamlessly.
+                Salary calculations, statutory deductions, and compliance filings processed without a weekend scramble. Payslips generated and distributed automatically.
               </p>
             </article>
             <article class="reveal">
-              <i class="bi bi-calendar2-check" aria-hidden="true"></i><h3>Leave Management</h3>
+              <i class="bi bi-calendar2-check" aria-hidden="true"></i><h3>Performance Conversations on Data</h3>
               <p>
-                Simplify leave requests, approvals, balance tracking, and
-                leave policies.
+                Goals set, progress tracked, reviews completed throughout the year — not just at appraisal time. Managers review with facts, not memory.
               </p>
             </article>
-            <article class="reveal delay-1">
-              <i class="bi bi-bar-chart-line" aria-hidden="true"></i><h3>Performance Management</h3>
-              <p>
-                Set goals, track performance, conduct reviews, and drive
-                employee growth.
-              </p>
-            </article>
-            <article class="reveal delay-2">
-              <i class="bi bi-cash-stack" aria-hidden="true"></i><h3>Payroll Management</h3>
-              <p>
-                Automate payroll processing, salary calculations, tax
-                management, and payslips.
-              </p>
-            </article>
-            <article class="reveal">
-              <i class="bi bi-clock-history" aria-hidden="true"></i><h3>Shift &amp; Attendance Management</h3>
-              <p>
-                Manage shifts, track attendance, overtime, and ensure accurate
-                time reporting.
-              </p>
-            </article>
+            
           </div>
         </div>`
             }
@@ -450,28 +422,28 @@ function PeopleWhy() {
           </div>
           <div class="people-why-grid">
             <article class="reveal">
-              <i class="bi bi-lightning-charge" aria-hidden="true"></i><h3>Increase Efficiency</h3>
-              <p>Automate routine HR tasks and save valuable time.</p>
+              <i class="bi bi-lightning-charge" aria-hidden="true"></i><h3>Payroll That Closes Without Drama</h3>
+              <p>No more last-minute corrections, missed deductions, or weekend reconciliations. Statutory compliance — handled. Every cycle.</p>
             </article>
             <article class="reveal delay-1">
-              <i class="bi bi-emoji-smile" aria-hidden="true"></i><h3>Improve Employee Experience</h3>
-              <p>Empower employees with self-service and transparency.</p>
+              <i class="bi bi-emoji-smile" aria-hidden="true"></i><h3>Improve Self-Service That Actually Works</h3>
+              <p>Employees check balances, raise requests, and track status themselves. HR stops being a help desk and starts being strategic.</p>
             </article>
             <article class="reveal delay-2">
-              <i class="bi bi-bar-chart" aria-hidden="true"></i><h3>Real-Time Insights</h3>
-              <p>Make data-driven decisions with live dashboards.</p>
+              <i class="bi bi-bar-chart" aria-hidden="true"></i><h3>Visibility Without Asking for Reports</h3>
+              <p>Attendance, leave, headcount, performance — all live. Management sees what's happening without scheduling a review meeting.</p>
             </article>
             <article class="reveal">
-              <i class="bi bi-check2-circle" aria-hidden="true"></i><h3>Accurate &amp; Compliant</h3>
-              <p>Ensure payroll accuracy and stay compliant always.</p>
+              <i class="bi bi-check2-circle" aria-hidden="true"></i><h3>Statutory Compliance Built In</h3>
+              <p>Local tax, payroll compliance, and labour law obligations handled automatically. No separate tracking, no missed filings.</p>
             </article>
             <article class="reveal delay-1">
-              <i class="bi bi-shield-lock" aria-hidden="true"></i><h3>Scalable &amp; Secure</h3>
-              <p>Built to grow with your organization securely.</p>
+              <i class="bi bi-shield-lock" aria-hidden="true"></i><h3>Grows With Your Headcount</h3>
+              <p>Whether you're a growing mid-sized business or a multi-location enterprise, Smart HR handles the scale — same reliable workflows, no rearchitecting.</p>
             </article>
             <article class="reveal delay-2">
-              <i class="bi bi-lightbulb" aria-hidden="true"></i><h3>Better Decision Making</h3>
-              <p>Access advanced reports and analytics instantly.</p>
+              <i class="bi bi-lightbulb" aria-hidden="true"></i><h3>A System Managers Actually Use</h3>
+              <p>Approvals, reviews, and team visibility on their phone. Managers stay involved without being dependent on HR to tell them what's happening.</p>
             </article>
           </div>
         </div>`

@@ -1713,6 +1713,14 @@
   line-height: 1.2;
 }
 
+.role-grid p {
+  max-width: 340px;
+  color: var(--gate-muted);
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
 @media (max-width: 900px) {
   .role-grid:before {
     display: none;
