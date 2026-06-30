@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import { getGeminiAiIconMarkup } from '@/components/shared/geminiAiIconMarkup';
 import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
 
 export default function ProductsSection() {
@@ -87,8 +88,9 @@ export default function ProductsSection() {
         <div class="home-heading centered reveal"><h2>Four products. One operational advantage.</h2><p>Give employees, security teams, and HR leaders the tools they need while keeping every workflow connected.</p></div>
         <div class="product-highlight-grid" data-product-slider>
           <article class="product-highlight tilt-card reveal"><div class="product-icon product-icon-id">${getSmartIdIconMarkup('home', 'smart-id-home-icon')}</div><span>Employee Work Buddy</span><h3>Smart-ID</h3><p>Your employees spend less time on HR admin and more time on work that matters. Smart ID puts everything they need in one place — on their phone, in the moment.</p><a class="product-link" href="/smart-id">View Product <b>→</b></a></article>
-          <article class="product-highlight featured tilt-card reveal delay-1"><div class="product-icon product-icon-gate"><i class="bi bi-door-open" aria-hidden="true"></i></div><span>Visitor &amp; Gate Control</span><h3>Smart-Gate</h3><p>Every person, vehicle, and material that moves through your facility — known, approved, and accounted for. SmartGate replaces uncertainty at the gate with complete operational control.</p><a class="product-link" href="/smart-gate">View Product <b>→</b></a></article>
+          <article class="product-highlight tilt-card reveal delay-1"><div class="product-icon product-icon-gate"><i class="bi bi-door-open" aria-hidden="true"></i></div><span>Visitor &amp; Gate Control</span><h3>Smart-Gate</h3><p>Every person, vehicle, and material that moves through your facility — known, approved, and accounted for. SmartGate replaces uncertainty at the gate with complete operational control.</p><a class="product-link" href="/smart-gate">View Product <b>→</b></a></article>
           <article class="product-highlight tilt-card reveal delay-2"><div class="product-icon product-icon-people"><i class="bi bi-people" aria-hidden="true"></i></div><span>People &amp; HR Operations</span><h3>Smart-People</h3><p>From the day someone joins to the day they leave, Smart HR handles the full employee lifecycle without spreadsheets, without follow-up emails, and without things falling through the cracks.</p><a class="product-link" href="/smart-people">View Product <b>→</b></a></article>
+          <article class="product-highlight tilt-card reveal"><div class="product-icon product-icon-ai">${getGeminiAiIconMarkup('homeProductsAi')}</div><span>AI Integration &amp; Reporting</span><h3>AI + ERP Connect</h3><p>Your ERP holds the data. AI + ERP Connect turns it into answers &mdash; without a single manual report, and without replacing the ERP you already run.</p><a class="product-link" href="/about#solutions">View Product <b>&rarr;</b></a></article>
         </div>
         <div class="product-slider-controls" data-product-slider-controls aria-label="Product slider controls">
           <button type="button" data-product-prev aria-label="Previous product"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button>

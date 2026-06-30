@@ -61,7 +61,7 @@
               </div>
             </div>
           </div>
-        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"p8SF2ELWcSr7vbtAOEBqS"}
+        </div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"data-body-class":"product-v3 people-page antialiased overflow-x-hidden","children":[["$","div",null,{"className":"scroll-progress","id":"scroll-progress","aria-hidden":"true"}],["$","$L2",null,{"active":"smart-people"}],["$","main",null,{"children":[["$","section",null,{"className":"inner-hero people-hero","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yw_ZZUE2S2hyBtq5gmg2p"}
 c:T8ef,<div class="container">
           <div class="section-heading centered reveal">
             <h2>Built for Operations-First Organizations</h2>

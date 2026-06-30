@@ -132,7 +132,7 @@ body.about-page {
   display: grid;
 }
 
-.about-page .system-node .smart-id-home-icon, .about-page .coverage-grid .smart-id-home-icon, .about-page .solution-title .smart-id-home-icon {
+.about-page .system-node .smart-id-home-icon, .about-page .coverage-grid .smart-id-home-icon, .about-page .solution-title .smart-id-home-icon, .about-page .system-node .gemini-ai-logo, .about-page .coverage-grid .gemini-ai-logo, .about-page .solution-title .gemini-ai-logo {
   flex: 0 0 44px;
   width: 44px;
   height: 44px;

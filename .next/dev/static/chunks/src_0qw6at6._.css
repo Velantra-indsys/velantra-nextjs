@@ -4393,7 +4393,7 @@ body.product-v3 .site-header.home-header .main-nav {
 
 .product-highlight-grid {
   perspective: 1000px;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
   display: grid;
 }
@@ -4449,6 +4449,16 @@ body.product-v3 .site-header.home-header .main-nav {
 .smart-id-home-icon {
   width: 75px;
   height: 75px;
+  display: block;
+}
+
+.product-icon-ai {
+  background: linear-gradient(145deg, #eef5ff, #fff5e5);
+}
+
+.gemini-ai-logo {
+  width: 34px;
+  height: 34px;
   display: block;
 }
 
@@ -5062,10 +5072,6 @@ body.product-v3 .site-header.home-header .main-nav {
 
   .product-highlight-grid {
     grid-template-columns: 1fr 1fr;
-  }
-
-  .product-highlight:last-child {
-    grid-column: span 2;
   }
 
   .what-copy {
@@ -7015,7 +7021,7 @@ body.about-page {
   display: grid;
 }
 
-.about-page .system-node .smart-id-home-icon, .about-page .coverage-grid .smart-id-home-icon, .about-page .solution-title .smart-id-home-icon {
+.about-page .system-node .smart-id-home-icon, .about-page .coverage-grid .smart-id-home-icon, .about-page .solution-title .smart-id-home-icon, .about-page .system-node .gemini-ai-logo, .about-page .coverage-grid .gemini-ai-logo, .about-page .solution-title .gemini-ai-logo {
   flex: 0 0 44px;
   width: 44px;
   height: 44px;
@@ -14973,14 +14979,23 @@ body.home-page {
 }
 
 .product-icon-gate {
-  color: #fff;
-  background: #ffffff29;
-  box-shadow: inset 0 1px #ffffff3d, 0 14px 34px #00000038;
+  color: #6358e8;
+  background: linear-gradient(145deg, #6358e824, #58b5bd24);
 }
 
 .product-icon-people {
   color: #58a1ad;
   background: linear-gradient(145deg, #58b5bd29, #6358e81f);
+}
+
+.product-icon-ai {
+  background: linear-gradient(145deg, #4285f429, #fbbc0424);
+}
+
+.product-highlight .product-icon .gemini-ai-logo {
+  width: 38px;
+  height: 38px;
+  display: block;
 }
 
 .product-highlight > span, .product-link, .benefit-grid i, .intelligence-top em, .intelligence-kpis article > em, .intelligence-activity > div em {

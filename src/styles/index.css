@@ -500,7 +500,7 @@
 }
 .product-highlight-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
   perspective: 1000px;
 }
@@ -559,6 +559,14 @@
 .smart-id-home-icon {
   width: 75px;
   height: 75px;
+  display: block;
+}
+.product-icon-ai {
+  background: linear-gradient(145deg, #eef5ff, #fff5e5);
+}
+.gemini-ai-logo {
+  width: 34px;
+  height: 34px;
   display: block;
 }
 .product-highlight.featured .product-icon {
@@ -1096,9 +1104,6 @@
   }
   .product-highlight-grid {
     grid-template-columns: 1fr 1fr;
-  }
-  .product-highlight:last-child {
-    grid-column: span 2;
   }
   .what-copy {
     max-width: 760px;

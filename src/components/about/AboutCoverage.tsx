@@ -1,3 +1,4 @@
+import { getGeminiAiIconMarkup } from '@/components/shared/geminiAiIconMarkup';
 import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
 
 export default function AboutCoverage() {
@@ -12,7 +13,7 @@ export default function AboutCoverage() {
           <article class="reveal"><i class="bi bi-door-open" aria-hidden="true"></i><span>Live</span><h3>SmartGate</h3><p>Every person and vehicle at your gate — known, approved, and on record.</p></article>
           <article class="reveal delay-1"><i class="bi bi-people" aria-hidden="true"></i><span>Live</span><h3>Smart HR</h3><p>Hiring to exit. Attendance to payroll. One system that doesn't lose the thread.</p></article>
           <article class="reveal delay-2">${getSmartIdIconMarkup('aboutCoverageSmartId', 'smart-id-home-icon')}<span>Live</span><h3>Smart ID</h3><p>Your employees manage their workday. HR stops answering the same questions.p</p></article>
-          <article class="reveal"><i class="bi bi-cpu" aria-hidden="true"></i><span>New</span><h3>AI + ERP Connect</h3><p>Your ERP data, turned into answers — without a single manual report.</p></article>
+          <article class="reveal">${getGeminiAiIconMarkup('aboutCoverageAi')}<span>New</span><h3>AI + ERP Connect</h3><p>Your ERP data, turned into answers — without a single manual report.</p></article>
         </div>
       </div>` }} />
     </>

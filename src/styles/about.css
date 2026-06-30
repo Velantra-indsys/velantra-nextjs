@@ -150,6 +150,14 @@ body.about-page {
   display: block;
   flex: 0 0 44px;
 }
+.about-page .system-node .gemini-ai-logo,
+.about-page .coverage-grid .gemini-ai-logo,
+.about-page .solution-title .gemini-ai-logo {
+  width: 44px;
+  height: 44px;
+  display: block;
+  flex: 0 0 44px;
+}
 
 .about-page .system-node:nth-child(2n) i,
 .about-page .coverage-grid article:nth-child(2n) i,

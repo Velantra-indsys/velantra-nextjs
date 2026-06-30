@@ -1,3 +1,4 @@
+import { getGeminiAiIconMarkup } from '@/components/shared/geminiAiIconMarkup';
 import { getSmartIdIconMarkup } from '@/components/shared/smartIdIconMarkup';
 
 export default function AboutSolutions() {
@@ -29,7 +30,7 @@ export default function AboutSolutions() {
             <a href="/smart-id">Explore Smart ID <b>&rarr;</b></a>
           </article>
           <article class="solution-feature ai-feature reveal delay-1">
-            <div class="solution-title"><i class="bi bi-cpu" aria-hidden="true"></i><span><small>AI Integration &amp; Intelligent Reporting</small><h3>AI + ERP Connect</h3></span></div>
+            <div class="solution-title">${getGeminiAiIconMarkup('aboutSolutionsAi')}<span><small>AI Integration &amp; Intelligent Reporting</small><h3>AI + ERP Connect</h3></span></div>
             <p>Your ERP holds the data. AI + ERP Connect makes it useful — turning operational records into answers, alerts, and decisions without a single manual report.</p>
             <ul><li>Works with your existing ERP — no replacement required</li><li>Business questions answered in plain language</li><li>Reports and alerts delivered automatically</li><li>Connects gate, HR, and ERP data in one view</li></ul>
           </article>
